@@ -1,0 +1,313 @@
+PWD c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI
+INPUT C:\Users\gui_b\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.tex
+OUTPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.log
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\abntex2.cls
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\abntex2.cls
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\memoir.cls
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\memoir.cls
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifetex\ifetex.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifetex\ifetex.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\plain\ifetex\ifetex.tex
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\mem12.clo
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\mem12.clo
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\dcolumn.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\dcolumn.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\delarray.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\delarray.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\tabularx.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\textcase\textcase.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\textcase\textcase.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\memhfixc.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\memoir\memhfixc.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\bookmark.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\bookmark.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\bkm-pdftex.def
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\bkm-pdftex.def
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\english.ldf
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\english.ldf
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\english.ldf
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.def
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-portuges\portuges.ldf
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-portuges\portuges.ldf
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cmap\cmap.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cmap\cmap.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\lmodern.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\lmodern.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1200.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cmap\t1.cmap
+OUTPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.pdf
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cmap\t1.cmap
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lastpage\lastpage.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lastpage\lastpage.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\backref.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\backref.sty
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\abntex2cite.sty
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\abntex2cite.sty
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\abntex2abrev.sty
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\abntex2abrev.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\relsize\relsize.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\relsize\relsize.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\relsize\relsize.sty
+OUTPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.idx
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.aux
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.aux
+OUTPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.aux
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmr.fd
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmr.fd
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.fd
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.fd
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmss12.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmss12.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmssbx10.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmssbx10.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr12.tfm
+INPUT C:\Users\gui_b\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmssbx10.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr12.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cmap\ot1.cmap
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cmap\ot1.cmap
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr8.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr6.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.fd
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.fd
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi12.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mmap\oml.cmap
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mmap\oml.cmap
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi8.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi6.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mmap\oms.cmap
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mmap\oms.cmap
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy8.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy6.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmex10.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mmap\omx.cmap
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mmap\omx.cmap
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr10.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx10.tfm
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.lof
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.lof
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.lot
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.lot
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.toc
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.toc
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmssbx10.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr12.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr10.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr7.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi12.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi10.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi7.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy7.tfm
+INPUT img\img-14.png
+INPUT .\img\img-14.png
+INPUT .\img\img-14.png
+INPUT .\img\img-14.png
+INPUT .\img\img-14.png
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr10.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmr.fd
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmr.fd
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr5.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi5.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy5.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx10.tfm
+INPUT img\img-12.jpg
+INPUT .\img\img-12.jpg
+INPUT .\img\img-12.jpg
+INPUT .\img\img-12.jpg
+INPUT .\img\img-12.jpg
+INPUT img\img-5.png
+INPUT .\img\img-5.png
+INPUT .\img\img-5.png
+INPUT .\img\img-5.png
+INPUT .\img\img-5.png
+INPUT img\img-7.jpg
+INPUT .\img\img-7.jpg
+INPUT .\img\img-7.jpg
+INPUT .\img\img-7.jpg
+INPUT .\img\img-7.jpg
+INPUT img\img-6.png
+INPUT .\img\img-6.png
+INPUT .\img\img-6.png
+INPUT .\img\img-6.png
+INPUT .\img\img-6.png
+INPUT img\img-8.jpg
+INPUT .\img\img-8.jpg
+INPUT .\img\img-8.jpg
+INPUT .\img\img-8.jpg
+INPUT .\img\img-8.jpg
+INPUT img\img-9.jpg
+INPUT .\img\img-9.jpg
+INPUT .\img\img-9.jpg
+INPUT .\img\img-9.jpg
+INPUT .\img\img-9.jpg
+INPUT img\img-14.png
+INPUT .\img\img-14.png
+INPUT img\img-16.png
+INPUT .\img\img-16.png
+INPUT .\img\img-16.png
+INPUT .\img\img-16.png
+INPUT .\img\img-16.png
+INPUT img\img-15.png
+INPUT .\img\img-15.png
+INPUT .\img\img-15.png
+INPUT .\img\img-15.png
+INPUT .\img\img-15.png
+INPUT img\img-17.png
+INPUT .\img\img-17.png
+INPUT .\img\img-17.png
+INPUT .\img\img-17.png
+INPUT .\img\img-17.png
+INPUT img\img-18.png
+INPUT .\img\img-18.png
+INPUT .\img\img-18.png
+INPUT .\img\img-18.png
+INPUT .\img\img-18.png
+INPUT img\img-13.jpg
+INPUT .\img\img-13.jpg
+INPUT .\img\img-13.jpg
+INPUT .\img\img-13.jpg
+INPUT .\img\img-13.jpg
+INPUT img\img-1.png
+INPUT .\img\img-1.png
+INPUT .\img\img-1.png
+INPUT .\img\img-1.png
+INPUT .\img\img-1.png
+INPUT img\img-10.jpg
+INPUT .\img\img-10.jpg
+INPUT .\img\img-10.jpg
+INPUT .\img\img-10.jpg
+INPUT .\img\img-10.jpg
+INPUT img\img-19.png
+INPUT .\img\img-19.png
+INPUT .\img\img-19.png
+INPUT .\img\img-19.png
+INPUT .\img\img-19.png
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.bbl
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.bbl
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.brf
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.brf
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.brf
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.brf
+OUTPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.brf
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.ind
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.ind
+OUTPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.lof
+OUTPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.lot
+OUTPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.toc
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.aux
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.brf
+INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.brf
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ec.enc
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-rm.enc
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathit.enc
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathsy.enc
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmmi12.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmmi12.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmss12.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmss12.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb
