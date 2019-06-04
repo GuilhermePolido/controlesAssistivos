@@ -13,12 +13,12 @@
 \contentsline {subsection}{\numberline {2.1.4}Acessibilidade}{11}{subsection.2.1.4}% 
 \contentsline {subsection}{\numberline {2.1.5}Interatividade}{11}{subsection.2.1.5}% 
 \contentsline {section}{\numberline {2.2}Tecnologia assistiva}{12}{section.2.2}% 
-\contentsline {section}{\numberline {2.3}Plataforma Arduino}{17}{section.2.3}% 
-\contentsline {section}{\numberline {2.4}Unojoy}{19}{section.2.4}% 
+\contentsline {section}{\numberline {2.3}Plataforma ARDUINO\IeC {\textregistered }}{17}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}Biblioteca Unojoy}{19}{section.2.4}% 
 \contentsline {chapter}{\chapternumberline {3}Metodologia}{21}{chapter.3}% 
 \contentsline {chapter}{\chapternumberline {4}Desenvolvimento}{22}{chapter.4}% 
-\contentsline {chapter}{\chapternumberline {5}Conclus\IeC {\~a}o}{27}{chapter.5}% 
-\contentsline {chapter}{Refer\^encias}{28}{chapter*.4}% 
+\contentsline {chapter}{\chapternumberline {5}Conclus\IeC {\~a}o}{28}{chapter.5}% 
+\contentsline {chapter}{Refer\^encias}{29}{chapter*.4}% 
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
-\contentsline {part}{Anexos}{29}{section*.5}% 
+\contentsline {part}{Anexos}{30}{section*.5}% 

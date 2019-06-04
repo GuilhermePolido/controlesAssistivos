@@ -1,0 +1,155 @@
+% Encoding: UTF-8
+
+@Misc{luiza,
+  author = {Luiza Maria Borges Oliveira},
+  title  = {Cartilha Do Censo 2010: Pessoas com Deficiência. 2012},
+  year   = {2012},
+  note   = {Acesso em 03/06/2019},
+  url    = {https://www.pessoacomdeficiencia.gov.br/app/sites/default/files/publicacoes/cartilha-censo-2010-pessoas-com-deficienciareduzido.pdf},
+}
+
+@Misc{unojoy,
+  author = {Alan Chatham},
+  title  = {UnoJoy},
+  year   = {2014},
+  note   = {Acesso em 04/06/2019},
+  url    = {https://github.com/AlanChatham/UnoJoy},
+}
+
+@Misc{assistiva,
+  author = {ASSISTIVA},
+  title  = {O que é Tecnologia Assistiva?},
+  year   = {2018},
+  note   = {Acesso em 04/06/2019},
+  url    = {http://www.assistiva.com.br/tassistiva.html},
+}
+
+@Misc{utah,
+  author = {Center for Persons with Disabilities - Utah State University},
+  title  = {Motor Disabilities: Types of Motor Disabilities},
+  month  = oct,
+  year   = {2012},
+  note   = {Acesso em 04/06/2019},
+  url    = {https://webaim.org/articles/motor/motordisabilities},
+}
+
+@Misc{uniriotec,
+  author = {Simone Bacellar Leal Ferreira},
+  title  = {Acessibilidade e Usabilidade},
+  year   = {2016},
+  note   = {Acesso em 04/06/2019},
+  url    = {http://nau.uniriotec.br/index.php/sobre/acessibilidade-e-usabilidade},
+}
+
+@Misc{governobr,
+  author = {Governo do Brasil},
+  title  = {Tecnologia assistiva ajuda a melhorar a qualidade de vida de pessoas com deficiência},
+  year   = {2017},
+  note   = {Acesso em 04/06/2019},
+  url    = {http://www.brasil.gov.br/noticias/educacao-e-ciencia/2010/08/tecnologia-assistiva},
+}
+
+@Misc{ifprcuritiba,
+  author = {IFPR Curitiba},
+  title  = {Deficiência Física},
+  year   = {2013},
+  note   = {Acesso em 04/06/2019},
+  url    = {http://curitiba.ifpr.edu.br/wp-content/uploads/2013/06/DefFisica_abril.pdf},
+}
+
+@Misc{joytokey,
+  author = {JOYTOKEY},
+  title  = {What is JoyToKey},
+  year   = {2018},
+  note   = {Acesso em 04/06/2019},
+  url    = {https://joytokey.net/en/},
+}
+
+@Misc{lazarojcs,
+  author = {LAZAROJCS},
+  title  = {Facilitando a Acessibilidade: Conheça um pouco mais Sobre acessibilidade e as atuais tecnologias assistivas},
+  year   = {2015},
+  note   = {Acesso em 04/06/2019},
+  url    = {https://facilitandoacessibilidade.wordpress.com/2015/04/13/deficiencia-motora},
+}
+
+@Misc{antimicro,
+  author = {Travis nickles},
+  title  = {Antimicro},
+  year   = {2016},
+  note   = {Acesso em 04/06/2019},
+  url    = {https://github.com/AntiMicro/antimicro},
+}
+
+@Misc{arduinothomsen,
+  author = {Adilson Thomsen},
+  title  = {O que é Arduino?},
+  year   = {2014},
+  note   = {Acesso em 04/06/2019},
+  url    = {https://www.filipeflop.com/blog/o-que-e-arduino},
+}
+
+@Misc{arduinocomprarthomsen,
+  author = {Adilson Thomsen},
+  title  = {Qual Arduino Comprar? Conheça os Tipos de Arduino},
+  year   = {2014},
+  note   = {Acesso em 04/06/2019},
+  url    = {https://www.filipeflop.com/blog/tipos-de-arduino-qual-comprar},
+}
+
+@Misc{xpadder,
+  author = {Xpadder},
+  title  = {Xpadder},
+  year   = {2018},
+  note   = {Acesso em 04/06/2019},
+  url    = {https://www.xpadder.com},
+}
+
+@Misc{castrota,
+  author = {A. S. de A.; SOUZA, L. R. de; SANTOS, M. C. CASTRO},
+  title  = {Proposições teóricas para a inclusão da Tecnologia assistiva (ta) no currículo Escolar da educação básica},
+  month  = jan,
+  year   = {2011},
+  note   = {Acesso em 06/05/2019},
+  url    = {http://www.eventos.ufu.br/sites/eventos.ufu.br/files/documentos/tecnologia_assistiva_ta_-_do_conceito_a_legislacao.pdf},
+}
+
+@Misc{ifba,
+  author = {IFBA - Instituto Federal de Educação Ciência e Tecnologia},
+  title  = {Dispositivos Apontadores Especiais},
+  year   = {2013},
+  note   = {Acesso em 04/06/2019},
+  url    = {https://tecnologia-assistiva.webnode.com/defini%C3%A7%C3%A3o-de-defici%C3%AAncia/fisica-ou-motora/hardware/},
+}
+
+@Misc{civiam,
+  author = {Civiam},
+  title  = {Big Trackball - Mouse estatico de esfera},
+  note   = {Acesso em 04/06/2019},
+  url    = {http://www.civiam.com.br/civiam/index.php/necessidadesespeciais/tecnologia-assistiva/big-trackball-mouse-estatico-de-esfera.html#},
+}
+
+@Misc{civiamRoller,
+  author = {Civiam},
+  title  = {MOUSE ADAPTADO PARA OS PÉS - ROLLER MOUSE},
+  note   = {Acesso em 04/06/2019},
+  url    = {https://www.lojaciviam.com.br/mobilidade-reduzida/acesso-ao-computador/roller-mouse},
+}
+
+@Misc{tix,
+  author = {Tix},
+  title  = {Teclado Inteligente Multifuncional TiX},
+  year   = {2019},
+  note   = {Acesso em 04/06/2019},
+  url    = {https://tix.life/institucional/},
+}
+
+@Misc{iso9241,
+  author = {ISO},
+  title  = {Requisitos ergonômicos para o trabalho com dispositivos de interação visual Parte 11: Orientações sobre usabilidade},
+  year   = {2011},
+  note   = {Acesso em 04/06/2019},
+  url    = {https://www.abntcatalogo.com.br/norma.aspx?ID=86090},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

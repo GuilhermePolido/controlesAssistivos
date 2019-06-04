@@ -5,4 +5,39 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v<VERSION> }
 
+\bibitem[ASSISTIVA 2018]{assistiva}
+\abntrefinfo{ASSISTIVA}{ASSISTIVA}{2018}
+{ASSISTIVA. \emph{O que é Tecnologia Assistiva?} 2018.
+Acesso em 04/06/2019.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.assistiva\-.com\-.br\-/tassistiva\-.html$>$}{http://www.assistiva.com.br/tassistiva.html}.}
+
+\bibitem[LAZAROJCS 2015]{lazarojcs}
+\abntrefinfo{LAZAROJCS}{LAZAROJCS}{2015}
+{LAZAROJCS. \emph{Facilitando a Acessibilidade: Conheça um pouco mais Sobre
+  acessibilidade e as atuais tecnologias assistivas}. 2015.
+Acesso em 04/06/2019.
+Dispon{\'\i}vel em:
+  $<$https:\-/\-/facilitandoacessibilidade\-.wordpress\-.com\-/2015\-/04\-/13\-/deficiencia-motora$>$.}
+
+\bibitem[SOUZA L. R. de;~SANTOS 2011]{castrota}
+\abntrefinfo{SOUZA L. R. de;~SANTOS}{SOUZA L. R. DE;~SANTOS}{2011}
+{SOUZA L. R. DE;~SANTOS, M. C.~C. A.~S.~de A. \emph{Proposições teóricas
+  para a inclusão da Tecnologia assistiva (ta) no currículo Escolar da
+  educação básica}. jan. 2011.
+Acesso em 06/05/2019.
+Dispon{\'\i}vel em:
+  \htmladdnormallink{$<$http:\-/\-/www\-.eventos\-.ufu\-.br\-/sites\-/eventos\-.ufu\-.br\-/files\-/documentos\-/tecnologia\underline{\
+  }assistiva\underline{\ }ta\underline{\ }-\underline{\ }do\underline{\
+  }conceito\underline{\ }a\underline{\
+  }legislacao\-.pdf$>$}{http://www.eventos.ufu.br/sites/eventos.ufu.br/files/documentos/tecnologia_assistiva_ta_-_do_conceito_a_legislacao.pdf}.}
+
+\bibitem[University 2012]{utah}
+\abntrefinfo{University}{UNIVERSITY}{2012}
+{UNIVERSITY, C. for Persons~with D. U.~S. \emph{Motor Disabilities: Types of
+  Motor Disabilities}. out. 2012.
+Acesso em 04/06/2019.
+Dispon{\'\i}vel em:
+  $<$https:\-/\-/webaim\-.org\-/articles\-/motor\-/motordisabilities$>$.}
+
 \end{thebibliography}
