@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.5.28)  7 JUN 2019 16:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.5.28)  7 JUN 2019 16:53
 entering extended mode
 **./TCC_TSI.tex
 (TCC_TSI.tex
@@ -1120,134 +1120,137 @@ l.844
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.844 
-       <./img/img-10.jpg> <./img/img-19.png>] [26] (TCC_TSI.bbl (TCC_TSI.brf)
+       <./img/img-10.jpg> <./img/img-19.png>] [26]
+
+LaTeX Warning: Citation `anexoa' undefined on input line 891.
+
+(TCC_TSI.bbl (TCC_TSI.brf)
 \tf@brf=\write5
 \openout5 = `TCC_TSI.brf'.
 
-
-[27
+ [27
 
 ]
 bibitemlist
-) [28
+[28
 
-] [29
+]) [29] [30
 
 
 ]
-<./img/anex-img-1.jpg, id=305, 454.69875pt x 102.3825pt>
+<./img/anex-img-1.jpg, id=339, 454.69875pt x 102.3825pt>
 File: ./img/anex-img-1.jpg Graphic file (type jpg)
 <use ./img/anex-img-1.jpg>
-Package pdftex.def Info: ./img/anex-img-1.jpg  used on input line 962.
+Package pdftex.def Info: ./img/anex-img-1.jpg  used on input line 984.
 (pdftex.def)             Requested size: 364.00139pt x 81.96234pt.
-<./img/anex-img-2.jpg, id=306, 454.69875pt x 73.02281pt>
+<./img/anex-img-2.jpg, id=340, 454.69875pt x 73.02281pt>
 File: ./img/anex-img-2.jpg Graphic file (type jpg)
 <use ./img/anex-img-2.jpg>
-Package pdftex.def Info: ./img/anex-img-2.jpg  used on input line 969.
+Package pdftex.def Info: ./img/anex-img-2.jpg  used on input line 991.
 (pdftex.def)             Requested size: 364.00139pt x 58.45842pt.
-<./img/anex-img-3.jpg, id=307, 457.71pt x 58.71938pt>
+<./img/anex-img-3.jpg, id=341, 457.71pt x 58.71938pt>
 File: ./img/anex-img-3.jpg Graphic file (type jpg)
 <use ./img/anex-img-3.jpg>
-Package pdftex.def Info: ./img/anex-img-3.jpg  used on input line 974.
+Package pdftex.def Info: ./img/anex-img-3.jpg  used on input line 996.
 (pdftex.def)             Requested size: 364.00139pt x 46.69957pt.
 
-Overfull \hbox (5.38737pt too wide) in paragraph at lines 977--978
+Overfull \hbox (5.38737pt too wide) in paragraph at lines 999--1000
 []\T1/lmr/m/n/12 5$[]$ Passo: Após ter ex-traído os ar-qui-vos, re-no-meie o ar
 -quivo Arduino-big-joystick.hex
  []
 
-<./img/anex-img-4.jpg, id=308, 450.18187pt x 84.315pt>
+<./img/anex-img-4.jpg, id=342, 450.18187pt x 84.315pt>
 File: ./img/anex-img-4.jpg Graphic file (type jpg)
 <use ./img/anex-img-4.jpg>
-Package pdftex.def Info: ./img/anex-img-4.jpg  used on input line 981.
+Package pdftex.def Info: ./img/anex-img-4.jpg  used on input line 1003.
 (pdftex.def)             Requested size: 364.00139pt x 68.17767pt.
-[30
+[31
 
  <./img/anex-img-1.jpg> <./img/anex-img-2.jpg> <./img/anex-img-3.jpg>]
-<./img/anex-img-5.jpg, id=314, 456.20438pt x 111.41624pt>
+<./img/anex-img-5.jpg, id=347, 456.20438pt x 111.41624pt>
 File: ./img/anex-img-5.jpg Graphic file (type jpg)
 <use ./img/anex-img-5.jpg>
-Package pdftex.def Info: ./img/anex-img-5.jpg  used on input line 986.
+Package pdftex.def Info: ./img/anex-img-5.jpg  used on input line 1008.
 (pdftex.def)             Requested size: 364.00139pt x 88.90019pt.
-<./img/anex-img-6.jpg, id=315, 481.8pt x 272.51813pt>
+<./img/anex-img-6.jpg, id=348, 481.8pt x 272.51813pt>
 File: ./img/anex-img-6.jpg Graphic file (type jpg)
 <use ./img/anex-img-6.jpg>
-Package pdftex.def Info: ./img/anex-img-6.jpg  used on input line 993.
+Package pdftex.def Info: ./img/anex-img-6.jpg  used on input line 1015.
 (pdftex.def)             Requested size: 364.00139pt x 205.89339pt.
-<./img/anex-img-7.jpg, id=316, 190.7125pt x 112.42pt>
+<./img/anex-img-7.jpg, id=349, 190.7125pt x 112.42pt>
 File: ./img/anex-img-7.jpg Graphic file (type jpg)
 <use ./img/anex-img-7.jpg>
-Package pdftex.def Info: ./img/anex-img-7.jpg  used on input line 1000.
+Package pdftex.def Info: ./img/anex-img-7.jpg  used on input line 1022.
 (pdftex.def)             Requested size: 181.99722pt x 107.28728pt.
 
-[31 <./img/anex-img-4.jpg> <./img/anex-img-5.jpg> <./img/anex-img-6.jpg> <./img
+[32 <./img/anex-img-4.jpg> <./img/anex-img-5.jpg> <./img/anex-img-6.jpg> <./img
 /anex-img-7.jpg>]
-<./img/anex-img-8.jpg, id=321, 435.12563pt x 216.81pt>
+<./img/anex-img-8.jpg, id=354, 435.12563pt x 216.81pt>
 File: ./img/anex-img-8.jpg Graphic file (type jpg)
 <use ./img/anex-img-8.jpg>
-Package pdftex.def Info: ./img/anex-img-8.jpg  used on input line 1007.
+Package pdftex.def Info: ./img/anex-img-8.jpg  used on input line 1029.
 (pdftex.def)             Requested size: 318.49861pt x 158.70667pt.
-<./img/anex-img-9.jpg, id=322, 392.96812pt x 177.66376pt>
+<./img/anex-img-9.jpg, id=355, 392.96812pt x 177.66376pt>
 File: ./img/anex-img-9.jpg Graphic file (type jpg)
 <use ./img/anex-img-9.jpg>
-Package pdftex.def Info: ./img/anex-img-9.jpg  used on input line 1014.
+Package pdftex.def Info: ./img/anex-img-9.jpg  used on input line 1036.
 (pdftex.def)             Requested size: 273.00278pt x 123.43393pt.
-<./img/anex-img-10.jpg, id=323, 233.37187pt x 150.5625pt>
+<./img/anex-img-10.jpg, id=356, 233.37187pt x 150.5625pt>
 File: ./img/anex-img-10.jpg Graphic file (type jpg)
 <use ./img/anex-img-10.jpg>
-Package pdftex.def Info: ./img/anex-img-10.jpg  used on input line 1021.
+Package pdftex.def Info: ./img/anex-img-10.jpg  used on input line 1043.
 (pdftex.def)             Requested size: 227.5pt x 146.7806pt.
-<./img/anex-img-11.jpg, id=324, 189.70876pt x 179.92218pt>
+<./img/anex-img-11.jpg, id=357, 189.70876pt x 179.92218pt>
 File: ./img/anex-img-11.jpg Graphic file (type jpg)
 <use ./img/anex-img-11.jpg>
-Package pdftex.def Info: ./img/anex-img-11.jpg  used on input line 1028.
+Package pdftex.def Info: ./img/anex-img-11.jpg  used on input line 1050.
 (pdftex.def)             Requested size: 181.99722pt x 172.61076pt.
- [32 <./img/anex-img-8.jpg> <./img/anex-img-9.jpg> <./img/anex-img-10.jpg>]
-<./img/anex-img-12.jpg, id=329, 263.48438pt x 132.495pt>
+ [33 <./img/anex-img-8.jpg> <./img/anex-img-9.jpg> <./img/anex-img-10.jpg>]
+<./img/anex-img-12.jpg, id=362, 263.48438pt x 132.495pt>
 File: ./img/anex-img-12.jpg Graphic file (type jpg)
 <use ./img/anex-img-12.jpg>
-Package pdftex.def Info: ./img/anex-img-12.jpg  used on input line 1037.
+Package pdftex.def Info: ./img/anex-img-12.jpg  used on input line 1059.
 (pdftex.def)             Requested size: 181.99722pt x 91.52272pt.
-<./img/anex-img-13.jpg, id=330, 302.63063pt x 381.67593pt>
+<./img/anex-img-13.jpg, id=363, 302.63063pt x 381.67593pt>
 File: ./img/anex-img-13.jpg Graphic file (type jpg)
 <use ./img/anex-img-13.jpg>
-Package pdftex.def Info: ./img/anex-img-13.jpg  used on input line 1044.
+Package pdftex.def Info: ./img/anex-img-13.jpg  used on input line 1066.
 (pdftex.def)             Requested size: 181.99722pt x 229.5373pt.
-<./img/anex-img-14.jpg, id=331, 341.77687pt x 382.42876pt>
+<./img/anex-img-14.jpg, id=364, 341.77687pt x 382.42876pt>
 File: ./img/anex-img-14.jpg Graphic file (type jpg)
 <use ./img/anex-img-14.jpg>
-Package pdftex.def Info: ./img/anex-img-14.jpg  used on input line 1051.
+Package pdftex.def Info: ./img/anex-img-14.jpg  used on input line 1073.
 (pdftex.def)             Requested size: 227.5pt x 254.56284pt.
- [33 <./img/anex-img-11.jpg> <./img/anex-img-12.jpg> <./img/anex-img-13.jpg>]
-<./img/anex-img-15.jpg, id=336, 642.4pt x 401.5pt>
+ [34 <./img/anex-img-11.jpg> <./img/anex-img-12.jpg> <./img/anex-img-13.jpg>]
+<./img/anex-img-15.jpg, id=369, 642.4pt x 401.5pt>
 File: ./img/anex-img-15.jpg Graphic file (type jpg)
 <use ./img/anex-img-15.jpg>
-Package pdftex.def Info: ./img/anex-img-15.jpg  used on input line 1058.
+Package pdftex.def Info: ./img/anex-img-15.jpg  used on input line 1080.
 (pdftex.def)             Requested size: 364.00139pt x 227.50343pt.
-<./img/anex-img-16.jpg, id=337, 642.4pt x 401.5pt>
+<./img/anex-img-16.jpg, id=370, 642.4pt x 401.5pt>
 File: ./img/anex-img-16.jpg Graphic file (type jpg)
 <use ./img/anex-img-16.jpg>
-Package pdftex.def Info: ./img/anex-img-16.jpg  used on input line 1065.
+Package pdftex.def Info: ./img/anex-img-16.jpg  used on input line 1087.
 (pdftex.def)             Requested size: 364.00139pt x 227.50343pt.
- [34 <./img/anex-img-14.jpg> <./img/anex-img-15.jpg>]
-<./img/anex-img-17.jpg, id=342, 642.4pt x 401.5pt>
+ [35 <./img/anex-img-14.jpg> <./img/anex-img-15.jpg>]
+<./img/anex-img-17.jpg, id=375, 642.4pt x 401.5pt>
 File: ./img/anex-img-17.jpg Graphic file (type jpg)
 <use ./img/anex-img-17.jpg>
-Package pdftex.def Info: ./img/anex-img-17.jpg  used on input line 1072.
+Package pdftex.def Info: ./img/anex-img-17.jpg  used on input line 1094.
 (pdftex.def)             Requested size: 273.00278pt x 170.63217pt.
-<./img/anex-img-18.jpg, id=343, 642.4pt x 337.26pt>
+<./img/anex-img-18.jpg, id=376, 642.4pt x 337.26pt>
 File: ./img/anex-img-18.jpg Graphic file (type jpg)
 <use ./img/anex-img-18.jpg>
-Package pdftex.def Info: ./img/anex-img-18.jpg  used on input line 1079.
+Package pdftex.def Info: ./img/anex-img-18.jpg  used on input line 1101.
 (pdftex.def)             Requested size: 318.49861pt x 167.21439pt.
- [35 <./img/anex-img-16.jpg> <./img/anex-img-17.jpg> <./img/anex-img-18.jpg>]
-<./img/anex-img-19.jpg, id=348, 642.4pt x 463.7325pt>
+ [36 <./img/anex-img-16.jpg> <./img/anex-img-17.jpg> <./img/anex-img-18.jpg>]
+<./img/anex-img-19.jpg, id=382, 642.4pt x 463.7325pt>
 File: ./img/anex-img-19.jpg Graphic file (type jpg)
 <use ./img/anex-img-19.jpg>
-Package pdftex.def Info: ./img/anex-img-19.jpg  used on input line 1086.
+Package pdftex.def Info: ./img/anex-img-19.jpg  used on input line 1108.
 (pdftex.def)             Requested size: 364.00139pt x 262.76646pt.
 
-Overfull \hbox (15.13504pt too wide) in paragraph at lines 1093--1094
+Overfull \hbox (15.13504pt too wide) in paragraph at lines 1115--1116
 []\T1/lmr/m/n/12 https://mega.nz/#!xIhUxC6J!09gFgfu2v187Nu05q7ybW0L6-yoPQdfkY8A
 xtxx77Xg 
  []
@@ -1255,7 +1258,7 @@ xtxx77Xg
 No file TCC_TSI.ind.
 
 AED: lastpage setting LastPage
-[36 <./img/anex-img-19.jpg>]
+[37 <./img/anex-img-19.jpg>]
 \tf@lof=\write6
 \openout6 = `TCC_TSI.lof'.
 
@@ -1265,11 +1268,11 @@ AED: lastpage setting LastPage
 \tf@toc=\write8
 \openout8 = `TCC_TSI.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1107.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1107.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1129.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1129.
  (TCC_TSI.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1107.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1107.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1129.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1129.
 
 Package rerunfilecheck Info: File `TCC_TSI.brf' has not changed.
 (rerunfilecheck)             Checksum: BBE27EC5B585628EC9EB63CC7B3A40DD;172.
@@ -1278,18 +1281,21 @@ Package rerunfilecheck Info: File `TCC_TSI.brf' has not changed.
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1107.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1129.
  ) 
 Here is how much of TeX's memory you used:
- 11479 strings out of 492895
- 170969 string characters out of 3123735
- 307296 words of memory out of 3000000
- 15020 multiletter control sequences out of 15000+200000
+ 11651 strings out of 492895
+ 173284 string characters out of 3123735
+ 310002 words of memory out of 3000000
+ 15172 multiletter control sequences out of 15000+200000
  88333 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,13n,31p,986b,467s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,13n,31p,986b,557s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/gui_b/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.en
 c}{C:/Users/gui_b/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.en
 c}{C:/Users/gui_b/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathi
@@ -1309,9 +1315,9 @@ cal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Users/gui_b/AppDat
 a/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Users/gui_b/App
 Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/gui
 _b/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on TCC_TSI.pdf (37 pages, 12190516 bytes).
+Output written on TCC_TSI.pdf (38 pages, 12203441 bytes).
 PDF statistics:
- 505 PDF objects out of 1000 (max. 8388607)
- 93 named destinations out of 1000 (max. 500000)
+ 542 PDF objects out of 1000 (max. 8388607)
+ 113 named destinations out of 1000 (max. 500000)
  399 words of extra memory for PDF output out of 10000 (max. 10000000)
 

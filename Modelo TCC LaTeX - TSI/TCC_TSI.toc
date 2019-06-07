@@ -21,5 +21,5 @@
 \contentsline {chapter}{Refer\^encias}{28}{chapter*.4}% 
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
-\contentsline {part}{Anexos}{29}{section*.5}% 
-\contentsline {appendix}{\chapternumberline {A}Como transformar ARDUINO\IeC {\textregistered } UNO em UnoJoy}{30}{appendix.anexochapback.1}% 
+\contentsline {part}{Anexos}{30}{section*.5}% 
+\contentsline {appendix}{\chapternumberline {A}Como transformar ARDUINO\IeC {\textregistered } UNO em UnoJoy}{31}{appendix.anexochapback.1}% 

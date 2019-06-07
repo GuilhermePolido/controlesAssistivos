@@ -175,22 +175,7 @@ INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mmap\omx.cmap
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mmap\omx.cmap
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr10.tfm
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx10.tfm
-INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.lof
-INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.lof
-INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.lot
-INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.lot
-INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.toc
-INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.toc
-INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmssbx10.tfm
-INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr12.tfm
-INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr10.tfm
-INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr7.tfm
-INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi12.tfm
-INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi10.tfm
-INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi7.tfm
-INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
-INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
-INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy7.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT img\img-14.png
 INPUT .\img\img-14.png
 INPUT .\img\img-14.png
@@ -199,9 +184,15 @@ INPUT .\img\img-14.png
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr10.tfm
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmr.fd
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmr.fd
-INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx12.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr8.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr10.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr7.tfm
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr5.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi10.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi7.tfm
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi5.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy7.tfm
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy5.tfm
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmbx10.tfm
 INPUT img\img-12.jpg
@@ -236,16 +227,21 @@ INPUT .\img\img-9.jpg
 INPUT .\img\img-9.jpg
 INPUT img\img-14.png
 INPUT .\img\img-14.png
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmss8.tfm
 INPUT img\img-16.png
 INPUT .\img\img-16.png
 INPUT .\img\img-16.png
 INPUT .\img\img-16.png
 INPUT .\img\img-16.png
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmr7.tfm
 INPUT img\img-15.png
 INPUT .\img\img-15.png
 INPUT .\img\img-15.png
 INPUT .\img\img-15.png
 INPUT .\img\img-15.png
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmri10.tfm
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmri12.tfm
 INPUT img\img-17.png
 INPUT .\img\img-17.png
 INPUT .\img\img-17.png
@@ -278,23 +274,113 @@ INPUT .\img\img-19.png
 INPUT .\img\img-19.png
 INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.bbl
 INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.bbl
-INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.brf
-INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.brf
-INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.brf
-INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.brf
-OUTPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.brf
+INPUT img\anex-img-1.jpg
+INPUT .\img\anex-img-1.jpg
+INPUT .\img\anex-img-1.jpg
+INPUT .\img\anex-img-1.jpg
+INPUT .\img\anex-img-1.jpg
+INPUT img\anex-img-2.jpg
+INPUT .\img\anex-img-2.jpg
+INPUT .\img\anex-img-2.jpg
+INPUT .\img\anex-img-2.jpg
+INPUT .\img\anex-img-2.jpg
+INPUT img\anex-img-3.jpg
+INPUT .\img\anex-img-3.jpg
+INPUT .\img\anex-img-3.jpg
+INPUT .\img\anex-img-3.jpg
+INPUT .\img\anex-img-3.jpg
+INPUT img\anex-img-4.jpg
+INPUT .\img\anex-img-4.jpg
+INPUT .\img\anex-img-4.jpg
+INPUT .\img\anex-img-4.jpg
+INPUT .\img\anex-img-4.jpg
+INPUT img\anex-img-5.jpg
+INPUT .\img\anex-img-5.jpg
+INPUT .\img\anex-img-5.jpg
+INPUT .\img\anex-img-5.jpg
+INPUT .\img\anex-img-5.jpg
+INPUT img\anex-img-6.jpg
+INPUT .\img\anex-img-6.jpg
+INPUT .\img\anex-img-6.jpg
+INPUT .\img\anex-img-6.jpg
+INPUT .\img\anex-img-6.jpg
+INPUT img\anex-img-7.jpg
+INPUT .\img\anex-img-7.jpg
+INPUT .\img\anex-img-7.jpg
+INPUT .\img\anex-img-7.jpg
+INPUT .\img\anex-img-7.jpg
+INPUT img\anex-img-8.jpg
+INPUT .\img\anex-img-8.jpg
+INPUT .\img\anex-img-8.jpg
+INPUT .\img\anex-img-8.jpg
+INPUT .\img\anex-img-8.jpg
+INPUT img\anex-img-9.jpg
+INPUT .\img\anex-img-9.jpg
+INPUT .\img\anex-img-9.jpg
+INPUT .\img\anex-img-9.jpg
+INPUT .\img\anex-img-9.jpg
+INPUT img\anex-img-10.jpg
+INPUT .\img\anex-img-10.jpg
+INPUT .\img\anex-img-10.jpg
+INPUT .\img\anex-img-10.jpg
+INPUT .\img\anex-img-10.jpg
+INPUT img\anex-img-11.jpg
+INPUT .\img\anex-img-11.jpg
+INPUT .\img\anex-img-11.jpg
+INPUT .\img\anex-img-11.jpg
+INPUT .\img\anex-img-11.jpg
+INPUT img\anex-img-12.jpg
+INPUT .\img\anex-img-12.jpg
+INPUT .\img\anex-img-12.jpg
+INPUT .\img\anex-img-12.jpg
+INPUT .\img\anex-img-12.jpg
+INPUT img\anex-img-13.jpg
+INPUT .\img\anex-img-13.jpg
+INPUT .\img\anex-img-13.jpg
+INPUT .\img\anex-img-13.jpg
+INPUT .\img\anex-img-13.jpg
+INPUT img\anex-img-14.jpg
+INPUT .\img\anex-img-14.jpg
+INPUT .\img\anex-img-14.jpg
+INPUT .\img\anex-img-14.jpg
+INPUT .\img\anex-img-14.jpg
+INPUT img\anex-img-15.jpg
+INPUT .\img\anex-img-15.jpg
+INPUT .\img\anex-img-15.jpg
+INPUT .\img\anex-img-15.jpg
+INPUT .\img\anex-img-15.jpg
+INPUT img\anex-img-16.jpg
+INPUT .\img\anex-img-16.jpg
+INPUT .\img\anex-img-16.jpg
+INPUT .\img\anex-img-16.jpg
+INPUT .\img\anex-img-16.jpg
+INPUT img\anex-img-17.jpg
+INPUT .\img\anex-img-17.jpg
+INPUT .\img\anex-img-17.jpg
+INPUT .\img\anex-img-17.jpg
+INPUT .\img\anex-img-17.jpg
+INPUT img\anex-img-18.jpg
+INPUT .\img\anex-img-18.jpg
+INPUT .\img\anex-img-18.jpg
+INPUT .\img\anex-img-18.jpg
+INPUT .\img\anex-img-18.jpg
+INPUT img\anex-img-19.jpg
+INPUT .\img\anex-img-19.jpg
+INPUT .\img\anex-img-19.jpg
+INPUT .\img\anex-img-19.jpg
+INPUT .\img\anex-img-19.jpg
 INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.ind
 INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.ind
 OUTPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.lof
 OUTPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.lot
 OUTPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.toc
 INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.aux
-INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.brf
-INPUT c:\Users\gui_b\Desktop\UTFPR\TCC2\TCC LaTeX\Modelo TCC LaTeX - TSI\TCC_TSI.brf
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ec.enc
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-rm.enc
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathit.enc
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathsy.enc
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
@@ -305,8 +391,18 @@ INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr7.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr7.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr8.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr8.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmri10.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmri10.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmri12.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmri12.pfb
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmss12.pfb
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmss12.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmss8.pfb
+INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmss8.pfb
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmssbx10.pfb
 INPUT C:\Users\gui_b\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb

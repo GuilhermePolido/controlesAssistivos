@@ -126,7 +126,7 @@
   author = {Civiam},
   title  = {Big Trackball - Mouse estatico de esfera},
   note   = {Acesso em 04/06/2019},
-  url    = {http://www.civiam.com.br/civiam/index.php/necessidadesespeciais/tecnologia-assistiva/big-trackball-mouse-estatico-de-esfera.html#},
+  url    = {http://www.civiam.com.br/civiam/index.php/necessidadesespeciais/tecnologia-assistiva/big-trackball-mouse-estatico-de-esfera.html},
 }
 
 @Misc{civiamRoller,
@@ -152,7 +152,7 @@
   url    = {https://www.abntcatalogo.com.br/norma.aspx?ID=86090},
 }
 
-@Misc{,
+@Misc{sdhpr,
   author = {Secretaria de Direitos Humanos da Presidência da República - SDH/PR, Secretaria Nacional de Promoção dos Direitos da Pessoa com Deficiência - SNPD},
   title  = {Acessibilidade},
   note   = {Acesso em 04/06/2019},
@@ -173,6 +173,13 @@
   year   = {2013},
   note   = {Acesso em 06/06/2019},
   url    = {http://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html},
+}
+
+@Misc{lei10098,
+  author = {Portal Educação},
+  title  = {Lei da Acessibilidade Comentada},
+  note   = {Acesso em 06/06/2019},
+  url    = {https://www.portaleducacao.com.br/conteudo/artigos/conteudo/lei/29452},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
