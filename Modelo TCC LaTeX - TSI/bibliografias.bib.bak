@@ -152,4 +152,27 @@
   url    = {https://www.abntcatalogo.com.br/norma.aspx?ID=86090},
 }
 
+@Misc{,
+  author = {Secretaria de Direitos Humanos da Presidência da República - SDH/PR, Secretaria Nacional de Promoção dos Direitos da Pessoa com Deficiência - SNPD},
+  title  = {Acessibilidade},
+  note   = {Acesso em 04/06/2019},
+  url    = {https://www.pessoacomdeficiencia.gov.br/app/acessibilidade-0},
+}
+
+@Misc{saude,
+  author = {Ministério da Saúde},
+  title  = {Acessibilidade},
+  year   = {2017},
+  note   = {Acesso em 06/06/2019},
+  url    = {http://portalms.saude.gov.br/acessibilidade },
+}
+
+@Misc{w3c,
+  author = {W3C},
+  title  = {CARTILHA DE ACESSIBILIDADE NA WEB},
+  year   = {2013},
+  note   = {Acesso em 06/06/2019},
+  url    = {http://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

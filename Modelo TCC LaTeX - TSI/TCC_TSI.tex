@@ -766,7 +766,7 @@ Após a construção dos novos controles foram feitos alguns testes, os quais ti
 
 Para iniciar o desenvolvimento do projeto, foi primeiramente feito uma pesquisa sobre plataformas de desenvolvimento que possibilitam a comunicação com o computador como um \emph{joystick}. A escolha do tipo de interação com o computador utilizando \emph{joysticks} tem como principal funcionalidade, adicionar vários componentes e cada um realizar uma tarefa específica. Elementos joystick em computadores normalmente são utilizados para entretenimento, mas ao mapear as funções de cada botão, observou-se a possibilidade de utilizar como tecnologia assistiva. O resultado dessa pesquisa foi o microcontrolador PIC \footnote{Sigla PIC, do inglês Programmable Interrupt Controller} e a plataforma ARDUINO®, a vantagem da plataforma ARDUINO® é de estar pronta para ser utilizada, diferentemente do PIC, o qual deve ser montado o circuito eletrônico com componentes específicos, exigindo assim maior conhecimento técnico sobre o assunto.
 
-Após definir que será utilizada a plataforma ARDUINO®, foi feita outra pesquisa sobre códigos abertos relacionados a utilização do ARDUINO® no computador como \emph{joystick}. Resultando assim na biblioteca \emph{UnoJoy}, a qual possibilita o funcionamento nos ARDUINO® UNO, MEGA e LEONARDO. Ao se utilizar essa biblioteca o ARDUINO® é reconhecido pelo computador como um \emph{joystick}. Com isso é possível fazer o mapeamento e configurar a ação de cada tecla dos controles.
+Após definir que será utilizada a plataforma ARDUINO®, foi feita outra pesquisa sobre códigos abertos relacionados a utilização do ARDUINO® no computador como \emph{joystick}. Resultando assim na biblioteca \emph{UnoJoy}, a qual possibilita o funcionamento nos ARDUINO® UNO, MEGA e LEONARDO. Ao se utilizar essa biblioteca o ARDUINO® é reconhecido pelo computador como um \emph{joystick}. Com isso é possível fazer o mapeamento e configurar a ação de cada tecla dos controles. No Anexo \ref{ref:anexoa} é explicado como é feita a instalação/configuração da biblioteca \emph{UnoJoy} no ARDUINO® UNO.
 
 Para simular comandos no sistema operacional pode ser utilizado os softwares JoyToKey, Antimicro, Xpadder ou qualquer outro que tenha funcionalidades similares. Nos testes e durante o desenvolvimento foi utilizado o Antimicro e Xpadder. Com esses softwares podem ser simulado desde o click e movimentação do mouse até mesmo abrir programas específicos, como o teclado virtual, navegador, entre outros.
 
@@ -941,40 +941,160 @@ Para trabalhos futuros pode ser feita a separação dos botões em módulos, par
 % Imprime uma página indicando o início dos anexos
 \partanexos
 
-\chapter{Como preparar o ARDUINO® UNO com a biblioteca UnoJoy}
+\chapter{Como transformar ARDUINO® UNO em UnoJoy}
+\label{ref:anexoa}
 
-A preparação do ARDUINO® para ser utilizado como um \emph{joystick} com a biblioteca UnoJoy exige que seja feita numa placa que possua o controlador USB ATmega16u2, ou seja outro controlador, como o CH340 não funcionará. A preparação pode ser divida em passos:
+Nesse tutorial vamos aprender a transformar a placa Arduino Uno em Joystick.
 
-Primeiramente vamos baixar os arquivos necessários para fazer a transformação na placa Arduino Uno para Joystick:
-%
-%Software Flip Atmel:
-%
-%https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/FLIP
+Primeiramente vamos baixar os arquivos necessários apara fazer a transformação na placa Arduino Uno para Joystick, os links estão todos no final da postagem.
 
-Software ARDUINO® IDE:
+Lembrando que além dos arquivos disponibilizados para download é necessário ter também ter o java instalado no Pc, e o software do Arduino Uno.
+Vamos aos procedimentos:
 
-https://www.arduino.cc/en/Main/Software
+1º Passo: Conectar a placa Arduino Uno no Pc e verificar se os drivers estão instalados e se a porta reconheceu a placa Arduino.
 
-UnoJoy, BigJoy e Flip:
+2º Passo: Baixar e Extrair os arquivos da pasta zipada através de um programa tipo winrar ou outro do mesmo gênero como 7zip.  
+
+3º Passo: Faça a instalação do flip, dando um duplo clique no instalador do programa e seguindo o que se pede, após ter instalado não será necessário abrir o programa já que a função desse programa é apenas fazer uma comunicação entre o Arduino Uno e o Pc.
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.8\textwidth]{./img/anex-img-1.jpg}
+\end{figure}
+
+4º Passo: Abra a pasta Arduino-big-joystick e faça a extração da pasta compactada Arduino-big-joystick.
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.8\textwidth]{./img/anex-img-2.jpg}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.8\textwidth]{./img/anex-img-3.jpg}
+\end{figure}
+
+5º Passo: Após ter extraído os arquivos, renomeie o arquivo Arduino-big-joystick.hex para UnoJoy.hex, o U e J deixem maiúsculo.
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.8\textwidth]{./img/anex-img-4.jpg}
+\end{figure}
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.8\textwidth]{./img/anex-img-5.jpg}
+\end{figure}
+
+6º Passo: copie o arquivo UnoJoy.hex volte e abra a pasta UnoJoy, abra a pasta UnoJoy outra vez, abra a pasta UnoJoy-master, localize e abra a pasta UnoJoy mais uma vez, agora abra a pasta ATmega8u2Code, agora abra a pasta HexFiles cole e substitua o arquivo UnoJoy.hex.
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.8\textwidth]{./img/anex-img-6.jpg}
+\end{figure}
+
+7º Passo: Volte até a pasta Arduino-big-joystick, abra a mesma e abra a pasta sketch\_aug19c, dentro desta pasta está a sketch  para fazer a programação no Aduino Uno, abra a sketch e execute dando dois cliques.
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.4\textwidth]{./img/anex-img-7.jpg}
+\end{figure}
+
+8º Passo: Com a sketch aberta vá em ferramentas e verifique se a porta selecionada é a porta que o Arduino Uno está conectado.
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.7\textwidth]{./img/anex-img-8.jpg}
+\end{figure}
+
+9º Passo: Após ter verificado a porta e estando tudo correto clique no segundo botão da esquerda para direita na parte superior da sketch para carregar a programação, o botão tem o formato de uma ceta.
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.6\textwidth]{./img/anex-img-9.jpg}
+\end{figure}
+
+10º Passo: Agora vamos dar um curto na placa Arduino Uno encostando algo metálico nos dois primeiros pinos dos seis pinos próximo a porta usb do Arduino Uno, veja a imagem. abaixo.
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.5\textwidth]{./img/anex-img-10.jpg}
+\end{figure}
+
+11º Passo: Após ter dado o curto na placa  vamos abrir a pasta UnoJoy, abrir novamente a pasta UnoJoy,  agora abra a pasta UnoJoy-master, localize e abra a pasta UnoJoy e execute o arquivo TurnIntoAJoystick.
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.4\textwidth]{./img/anex-img-11.jpg}
+\end{figure}
+
+Obs.: Se der erro de dll ou outro qualquer ao executar o arquivo, será necessário atualizar o driver, faça o seguinte para atualizar o driver. 
+
+Vamos em painel de controle, hardware e sons e dispositivos e impressoras, e clicamos com o botão direito do mouse no dispositivo representante ao Arduino Uno que ficou como Dispositivo Desconhecido após o curto, após clicar com o botão direito do mouse sobre o dispositivo que representa o Arduino Uno clicamos  em propriedades.
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.4\textwidth]{./img/anex-img-12.jpg}
+\end{figure}
+
+Após ter clicado em propriedades, clique em hardware e em propriedades novamente.
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.4\textwidth]{./img/anex-img-13.jpg}
+\end{figure}
+
+Após ter clicado em propriedades clique agora em Alterar configurações.
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.5\textwidth]{./img/anex-img-14.jpg}
+\end{figure}
+
+Na próxima janela clique em Driver e Atualizar Driver, e em Procurar software de driver no computador.
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.8\textwidth]{./img/anex-img-15.jpg}
+\end{figure}
+
+Agora clique em procurar, clique em Disco local c:, clique em Arquivos de programas x(86), clique em Atmel, clique em Flip e em Usb, deixe a pasta Usb selecionada e clique em Ok.
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.8\textwidth]{./img/anex-img-16.jpg}
+\end{figure}
+
+Agora clique em avançar e aguarde finalizar a instalação do driver, deverá ficar como na imagem abaixo.
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.6\textwidth]{./img/anex-img-17.jpg}
+\end{figure}
+
+Agora execute o arquivo TurnIntoAJoystick novamente e aguarde, o Arduino Uno deve se desconectar do Pc.
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.7\textwidth]{./img/anex-img-18.jpg}
+\end{figure}
+
+12º Passo: Retire o cabo usb que liga o Arduino Uno ao Pc e conecte novamente, para certificar que tudo deu certo vá em painel de controle, hardware e sons e dispositivos e impressoras e verifique se o Arduino Uno estar como Joystick.
+
+\begin{figure}[H]
+	\centering
+		\includegraphics[width=0.8\textwidth]{./img/anex-img-19.jpg}
+\end{figure}
+
+Para reverter o processo basta dar o curto novamente na placa Arduino Uno, ir na pasta UnoJoy, abrir novamente a pasta UnoJoy, abrir a pasta UnoJoy-master, localizar e abrir a pasta UnoJoy e executar o arquivo TurnIntoAnArduino, desconectar e conectar novamente o Arduino Uno ao Pc e o processo será revertido.
+
+Link para download dos arquivos necessário
 
 https://mega.nz/\#!xIhUxC6J!09gFgfu2v187Nu05q7ybW0L6-yoPQdfkY8Axtxx77Xg
 
+Link para download do sofware do ARDUINO® 
 
-1º Passo: Conectar a placa Arduino Uno no Pc e verificar se os drivers estão instalados e se a porta reconheceu a placa Arduino. 
-
-2º Passo: Faça a instalação do flip, dando um duplo clique no instalador do programa e seguindo o que se pede, após ter instalado não será necessário abrir o programa já que a função desse programa é apenas fazer uma comunicação entre o Arduino Uno e o Pc.
-
-3º Passo: Abra a pasta Arduino-big-joystick e faça a extração da pasta compactada Arduino-big-joystick.
-
-4º Passo: Após ter extraído os arquivos, renomeie o arquivo Arduino-big-joystick.hex para UnoJoy.hex, o U e J deixem maiúsculo.
-
-5º Passo: copie o arquivo UnoJoy.hex volte e abra a pasta UnoJoy, abra a pasta UnoJoy outra vez, abra a pasta UnoJoy-master, localize e abra a pasta UnoJoy mais uma vez, agora abra a pasta ATmega8u2Code, agora abra a pasta HexFiles cole e substitua o arquivo UnoJoy.hex.
-
-6º Passo: Volte até a pasta Arduino-big-joystick, abra a mesma e abra a pasta sketchaug19c, dentro desta pasta está a sketch  para fazer a programação no Aduino Uno, abra a sketch e execute dando dois cliques.
-
-7º Passo: Com a sketch aberta vá em ferramentas e verifique se a porta selecionada é a porta que o Arduino Uno está conectado.
-
-
+https://www.arduino.cc/en/Main/Software
 
 \end{anexosenv}
 
