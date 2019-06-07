@@ -112,7 +112,7 @@ Guilherme Anderzen Polido
 
 \instituicao{
 UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ \par
-C MPUS TOLEDO \par
+CAMPUS TOLEDO \par
 COORDENAÇÃO DO CURSO DE TECNOLOGIA EM SISTEMAS PARA INTERNET
 % \par
 % Design Digital
@@ -360,7 +360,7 @@ COORDENAÇÃO DO CURSO DE TECNOLOGIA EM SISTEMAS PARA INTERNET
 
 % resumo em português
 \begin{resumo}
-	A área de tecnologia assistiva surgiu para possibilitar que pessoas com algum tipo de deficiência física ou motora tenham uma vida autônoma, oferecendo	alguns recursos, produtos ou até mesmo métodos para auxiliá-los. Esse trabalho tem o objetivo de criar controles para computador voltados para tecnologia assistiva, e IHC (Interação Humano Computador). Para atingir esse objetivo serão realizados testes de usabilidade com pessoas portadoras de algum tipo de deficiência física ou motora a qual dificulte ou até mesmo impossibilite o uso do computador. Os periféricos serão construídos com materiais de fácil manuseio presentes no mercado atual.
+	A área de tecnologia assistiva surgiu para possibilitar que pessoas com algum tipo de deficiência física ou motora tenham uma vida autônoma, oferecendo alguns recursos, produtos ou até mesmo métodos para auxiliá-los. Esse trabalho tem o objetivo de criar controles para computador voltados para tecnologia assistiva, e IHC (Interação Humano Computador). Para atingir esse objetivo serão realizados testes de usabilidade com pessoas portadoras de algum tipo de deficiência física ou motora a qual dificulte ou até mesmo impossibilite o uso do computador. Os controles serão construídos com materiais de fácil manuseio presentes no mercado atual.
 
 \vspace{\onelineskip}
 \noindent
@@ -445,7 +445,7 @@ Algumas deficiências e/ou doenças como paralisia cerebral, esclerose múltipla
 
 O surgimento da área de tecnologia assistiva, se deu devido a necessidade de inclusão dessas pessoas com algum tipo de impossibilidade motora a sociedade em geral. Ou seja, a tecnologia assistiva apresenta uma série de produtos, recursos, metodologias e práticas a fim de promover a autonomia desses indivíduos dentro da sociedade em que está inserido. Com a tecnologia assistiva a utilização de computadores por essas pessoas torna-se recorrente. Porém o custo de um equipamento com essa finalidade normalmente é alto, e nem todos possuem condições para adquiri-los.
 
-No mercado é possível encontrar alguns periféricos para deficientes físicos, como por exemplo o Tix (Figura \ref{img:img-14-2}), desenvolvido no Brasil, possui botões que quando combinados formam comandos específicos, como alguma letra do alfabeto, ou ativar a movimentação do ponteiro do mouse, entre outros. Porém o mesmo encontra-se para venda no valor de R\$ 3.000,00. Por ser um valor muito alto poucas pessoas conseguem adquirir esse produto.
+No mercado é possível encontrar alguns controles para deficientes físicos, como por exemplo o Tix (Figura \ref{img:img-14-2}), desenvolvido no Brasil, possui botões que quando combinados formam comandos específicos, como alguma letra do alfabeto, ou ativar a movimentação do ponteiro do mouse, entre outros.
 
 \begin{figure}[H]
 \centering
@@ -454,23 +454,22 @@ No mercado é possível encontrar alguns periféricos para deficientes físicos,
 		\label{img:img-14-2}
 \end{figure}
 
-Na computação existe a área de IHC (Interface Homem Computador), a qual tem o objetivo de estudar as formas de humanos interagirem com um computador. Ou seja, estuda a interface pela qual usuários interagem com o computador, seja ela páginas web, teclados adaptativos para deficientes físicos, entre outros. Além disso a área de IHC oferece várias formas de realizar testes unitários a fim de avaliar a experiência do usuário com aquela interface desenvolvida.
+Na computação existe a área de IHC (Interface Homem Computador), a qual tem o objetivo de estudar as formas que humanos interagirem com um computador. Ou seja, estuda a interface pela qual usuários interagem com o computador, seja ela páginas web, teclados adaptativos para deficientes físicos, entre outros. Além disso a área de IHC oferece várias formas de realizar testes unitários a fim de avaliar a experiência do usuário com aquela interface desenvolvida.
 
-O objetivo deste trabalho é realizar um estudo baseado em IHC a fim de destacar o que é necessário para desenvolver periféricos voltados para tecnologia assistiva com materiais acessíveis. Para alcançar esse objetivo serão definidos os principais comandos que devem existir nesses periféricos e quais materiais serão necessários. Além disso, serão construídos alguns protótipos para realizar testes de usabilidade com usuários portadores de deficiência física ou algum tipo de mobilidade reduzida. Após isso os periféricos serão construídos seguindo o que foi estudado até então e por fim avaliar se o estudo obteve bons resultados ou não.
+O objetivo deste trabalho é realizar um estudo baseado em IHC a fim de destacar o que é necessário para desenvolver controles voltados para tecnologia assistiva com materiais acessíveis. Para alcançar esse objetivo serão definidos os principais comandos que devem existir nesses controles e quais materiais serão necessários. Após isso os controles serão construídos seguindo o que foi estudado até então e por fim avaliar se o estudo obteve bons resultados ou não.
 
 \section{Objetivos}
 \label{obj}
 
 \subsection{Objetivo Geral}
-Criar periféricos voltados para tecnologia assistiva utilizando IHC, materiais acessíveis, facilidade de construção e integração com o computador.
+Criar controles voltados para tecnologia assistiva utilizando IHC, materiais acessíveis, facilidade de construção e integração com o computador.
 
 \subsection{Objetivos Específicos}
 \begin{itemize}
-	\item Definir o conjunto de comandos que serão implementados nos periféricos.
-	\item Definir os materiais necessários focando o baixo custo e fácil montagem.
-	\item Montar o primeiro protótipo.
+	\item Definir o conjunto de comandos que serão implementados nos controles.
+	\item Definir os materiais necessários de forma ue seja fácial a sua montagem.
 	\item Realizar e avaliar testes com pessoas portadoras de alguma deficiência física.
-	\item Montar os periféricos e realizar os testes finais para validá-los.
+	\item Montar os controles e realizar os testes finais para validá-los.
 \end{itemize}
 
 
@@ -753,7 +752,7 @@ Xpadder	&Pago						&Windows 10,8,7, Vista, XP 		&-\\
 
 Ao utilizar o ARDUINO® UNO é necessário carregar o código para ATmega16u2, responsável por gerenciar a comunicação entre o chip controlador Atmega 328p e a porta USB \footnote{Sigla USB, do inglês Universal Serial Bus} do computador, para que o mesmo seja reconhecido como um Joystick ao conectar na porta USB. Diferentemente do ARDUINO® Leonardo, que a comunicação entre o chip controlador Atmega32u4 e a porta USB é feita de forma direta, sem a necessidade de outro circuito integrado como o ATmega8u2 para gerenciar essa comunicação.
 
-Para a construção dos periféricos pode ser utilizado o ARDUINO® UNO R3, sendo obrigatório que ele possua o micro controlador ATmega8u2, pois a versão chinesa a qual possui o controlador CH340, que também faz o papel de intermediar a comunicação entre o Atmega 328p e a porta USB, não permite programá-lo. Também pode ser utilizado o ARDUINO® Leonardo, pois ele já possui a comunicação integrada no próprio controlador, ou o ARDUINO® MEGA para casos em que serão necessários mais de 13 botões no controle.
+Para a construção dos controles pode ser utilizado o ARDUINO® UNO R3, sendo obrigatório que ele possua o micro controlador ATmega8u2, pois a versão chinesa a qual possui o controlador CH340, que também faz o papel de intermediar a comunicação entre o Atmega 328p e a porta USB, não permite programá-lo. Também pode ser utilizado o ARDUINO® Leonardo, pois ele já possui a comunicação integrada no próprio controlador, ou o ARDUINO® MEGA para casos em que serão necessários mais de 13 botões no controle.
 
 \chapter{Metodologia}
 \label{met}
@@ -767,7 +766,7 @@ Após a construção dos novos controles foram feitos alguns testes, os quais ti
 
 Para iniciar o desenvolvimento do projeto, foi primeiramente feito uma pesquisa sobre plataformas de desenvolvimento que possibilitam a comunicação com o computador como um \emph{joystick}. A escolha do tipo de interação com o computador utilizando \emph{joysticks} tem como principal funcionalidade, adicionar vários componentes e cada um realizar uma tarefa específica. Elementos joystick em computadores normalmente são utilizados para entretenimento, mas ao mapear as funções de cada botão, observou-se a possibilidade de utilizar como tecnologia assistiva. O resultado dessa pesquisa foi o microcontrolador PIC \footnote{Sigla PIC, do inglês Programmable Interrupt Controller} e a plataforma ARDUINO®, a vantagem da plataforma ARDUINO® é de estar pronta para ser utilizada, diferentemente do PIC, o qual deve ser montado o circuito eletrônico com componentes específicos, exigindo assim maior conhecimento técnico sobre o assunto.
 
-Após definir que será utilizada a plataforma ARDUINO®, foi feita outra pesquisa sobre códigos abertos relacionados a utilização do ARDUINO® no computador como \emph{joystick}. Resultando assim na biblioteca \emph{UnoJoy}, a qual possibilita o funcionamento nos ARDUINO® UNO, MEGA e LEONARDO. Ao se utilizar essa biblioteca o ARDUINO® é reconhecido pelo computador como um \emph{joystick}. Com isso é possível fazer o mapeamento e configurar a ação de cada tecla dos teclados.
+Após definir que será utilizada a plataforma ARDUINO®, foi feita outra pesquisa sobre códigos abertos relacionados a utilização do ARDUINO® no computador como \emph{joystick}. Resultando assim na biblioteca \emph{UnoJoy}, a qual possibilita o funcionamento nos ARDUINO® UNO, MEGA e LEONARDO. Ao se utilizar essa biblioteca o ARDUINO® é reconhecido pelo computador como um \emph{joystick}. Com isso é possível fazer o mapeamento e configurar a ação de cada tecla dos controles.
 
 Para simular comandos no sistema operacional pode ser utilizado os softwares JoyToKey, Antimicro, Xpadder ou qualquer outro que tenha funcionalidades similares. Nos testes e durante o desenvolvimento foi utilizado o Antimicro e Xpadder. Com esses softwares podem ser simulado desde o click e movimentação do mouse até mesmo abrir programas específicos, como o teclado virtual, navegador, entre outros.
 
@@ -844,16 +843,31 @@ A ligação dos botões foi desenhada no site da tinkercad (Figura \ref{img:img-
 Após feita a montagem da estrutura e ligação dos botões ao ARDUINO®, basta conecta-lo no computador, e o drive será instalado automaticamente. Após a instalação, utilizando o Antimicro ou Xpadder, deve ser configurado as funções de cada botão dos controles.
 
 Funções como aumentar ou diminuir o \emph{zoom}, click direito e esquerdo do \emph{mouse}, fechar a janela atual do sistema operacional, abrir o teclado virtual, movimentação do ponteiro do \emph{mouse}, entre outras funções são possíveis de serem configuradas.
+As funções podem ser configuradas de acordo com o perfil do usuario, por exemplo, um usuario que acessa mais a internet, certamente usaria mais as funções de:
 
-talvez seria legal pôr em anexo como instalar o unojoy, e configurar as funções com o antimicro....
+\begin{itemize}
+\item CTRL + T (Abrir uma nova guia)
+\item CTRL + W (Fechar a guia atual)
+\item F5 (Recarregar a pagina)
+\item \emph{UP} (Subir o \emph{scroll} da tela)
+\item \emph{DOWN} (Descer a \emph{scroll} da tela)
+\item Abrir teclado virtual
+\item \emph{Zoom} +
+\item \emph{Zoom} -
+\item Clique direito do \emph{mouse}
+\item Clique esquerdo do \emph{mouse}
+\item Movimentação do mouse
+\end{itemize}
 
+Já um usuario que utiliza um software especifico pode configurar para que os controles usem os atalhos do software.
 
 \chapter{Conclusão}
 
-Foi possivel concluir o controle 
-tivemos alguns desafios com usuarios 
-para trabalhos futuros pode ser pensado em diminuir a altura e modularizar os botões para dividir...
+O desenvolvimento do presente estudo possibilitou uma análise de como é a construção de um controle voltado para tecnologias assistivas. Além disso, também permitiu conhecer um pouco mais sobre as areas que envolvem essa construção, e como ela se aplica na sociedade.
 
+Os testes com usuarios não foram realizados, pois para isso é necessário passar pelo comitê de ética, após aprovado podem ser feitos os testes necessários. Como essa aprovação não é simples e acaba sendo demorada, não foi possivel ter a aprovação até a data final de entrega do trabalho.
+
+Para trabalhos futuros pode ser feita a separação dos botões em módulos, para que o usuario ajuste como preferir em sua mesa. Também pode ser reduzido a altura dos controles, utilizando botões com alturas menores.
 
 % ---
 % Finaliza a parte no bookmark do PDF, para que se inicie o bookmark na raiz
@@ -926,6 +940,39 @@ para trabalhos futuros pode ser pensado em diminuir a altura e modularizar os bo
 
 % Imprime uma página indicando o início dos anexos
 \partanexos
+
+\chapter{Como preparar o ARDUINO® UNO com a biblioteca UnoJoy}
+
+A preparação do ARDUINO® para ser utilizado como um \emph{joystick} com a biblioteca UnoJoy exige que seja feita numa placa que possua o controlador USB ATmega16u2, ou seja outro controlador, como o CH340 não funcionará. A preparação pode ser divida em passos:
+
+Primeiramente vamos baixar os arquivos necessários para fazer a transformação na placa Arduino Uno para Joystick:
+%
+%Software Flip Atmel:
+%
+%https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/FLIP
+
+Software ARDUINO® IDE:
+
+https://www.arduino.cc/en/Main/Software
+
+UnoJoy, BigJoy e Flip:
+
+https://mega.nz/\#!xIhUxC6J!09gFgfu2v187Nu05q7ybW0L6-yoPQdfkY8Axtxx77Xg
+
+
+1º Passo: Conectar a placa Arduino Uno no Pc e verificar se os drivers estão instalados e se a porta reconheceu a placa Arduino. 
+
+2º Passo: Faça a instalação do flip, dando um duplo clique no instalador do programa e seguindo o que se pede, após ter instalado não será necessário abrir o programa já que a função desse programa é apenas fazer uma comunicação entre o Arduino Uno e o Pc.
+
+3º Passo: Abra a pasta Arduino-big-joystick e faça a extração da pasta compactada Arduino-big-joystick.
+
+4º Passo: Após ter extraído os arquivos, renomeie o arquivo Arduino-big-joystick.hex para UnoJoy.hex, o U e J deixem maiúsculo.
+
+5º Passo: copie o arquivo UnoJoy.hex volte e abra a pasta UnoJoy, abra a pasta UnoJoy outra vez, abra a pasta UnoJoy-master, localize e abra a pasta UnoJoy mais uma vez, agora abra a pasta ATmega8u2Code, agora abra a pasta HexFiles cole e substitua o arquivo UnoJoy.hex.
+
+6º Passo: Volte até a pasta Arduino-big-joystick, abra a mesma e abra a pasta sketchaug19c, dentro desta pasta está a sketch  para fazer a programação no Aduino Uno, abra a sketch e execute dando dois cliques.
+
+7º Passo: Com a sketch aberta vá em ferramentas e verifique se a porta selecionada é a porta que o Arduino Uno está conectado.
 
 
 
