@@ -17,7 +17,7 @@
 }
 
 @Misc{assistiva,
-  author = {ASSISTIVA},
+  author = {Assistiva},
   title  = {O que é Tecnologia Assistiva?},
   year   = {2018},
   note   = {Acesso em 04/06/2019},
@@ -58,7 +58,7 @@
 }
 
 @Misc{joytokey,
-  author = {JOYTOKEY},
+  author = {Joytokey},
   title  = {What is JoyToKey},
   year   = {2018},
   note   = {Acesso em 04/06/2019},
@@ -66,7 +66,7 @@
 }
 
 @Misc{lazarojcs,
-  author = {LAZAROJCS},
+  author = {LazaroJcs},
   title  = {Facilitando a Acessibilidade: Conheça um pouco mais Sobre acessibilidade e as atuais tecnologias assistivas},
   year   = {2015},
   note   = {Acesso em 04/06/2019},
@@ -106,7 +106,7 @@
 }
 
 @Misc{castrota,
-  author = {A. S. de A.; SOUZA, L. R. de; SANTOS, M. C. CASTRO},
+  author = {A. S. de A.; Souza, L. R. de; Santos, M. C. Castro},
   title  = {Proposições teóricas para a inclusão da Tecnologia assistiva (ta) no currículo Escolar da educação básica},
   month  = jan,
   year   = {2011},
@@ -131,7 +131,7 @@
 
 @Misc{civiamRoller,
   author = {Civiam},
-  title  = {MOUSE ADAPTADO PARA OS PÉS - ROLLER MOUSE},
+  title  = {Mouse adaptado para os pés - Roller Mouse},
   note   = {Acesso em 04/06/2019},
   url    = {https://www.lojaciviam.com.br/mobilidade-reduzida/acesso-ao-computador/roller-mouse},
 }
@@ -169,7 +169,7 @@
 
 @Misc{w3c,
   author = {W3C},
-  title  = {CARTILHA DE ACESSIBILIDADE NA WEB},
+  title  = {Cartilha de acessibilidade na web},
   year   = {2013},
   note   = {Acesso em 06/06/2019},
   url    = {http://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html},
