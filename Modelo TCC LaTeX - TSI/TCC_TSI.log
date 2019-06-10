@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.5.28)  9 JUN 2019 21:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.5.28)  9 JUN 2019 21:53
 entering extended mode
 **./TCC_TSI.tex
 (TCC_TSI.tex
@@ -867,18 +867,18 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 
 ] (TCC_TSI.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 24.
+(Font)              <14.4> on input line 27.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 24.
+(Font)              <10> on input line 27.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 24.
-LaTeX Font Info:    Try loading font information for OMS+lmss on input line 25.
+(Font)              <7> on input line 27.
+LaTeX Font Info:    Try loading font information for OMS+lmss on input line 28.
 
-LaTeX Font Info:    No file OMSlmss.fd. on input line 25.
+LaTeX Font Info:    No file OMSlmss.fd. on input line 28.
 
 
 LaTeX Font Warning: Font shape `OMS/lmss/bx/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead on input line 25.
+(Font)              using `OMS/cmsy/m/n' instead on input line 28.
 
 ) [6
 
@@ -895,25 +895,30 @@ Underfull \hbox (badness 7486) in paragraph at lines 554--554
 []|\T1/lmr/m/n/10 Comunicação Au-men-ta-tiva e Al-ter-na-tiva
  []
 
-[11] [12pdfTeX warning (ext4): destination with the same identifier (name{table
-.2.1}) has been already used, duplicate ignored
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.586 F
-       erramentas que sÃ£o fixadas Ã  cabeÃ§a, e auxiliam, o uso do teclado,...
-]
-<./img/img-12.jpg, id=181, 228.855pt x 149.8097pt>
+Underfull \hbox (badness 1389) in paragraph at lines 556--557
+\T1/lmr/m/n/10 soas com pri-va-ções sen-so-ri-ais (vi-su-ais e au-di-ti-
+ []
+
+[11]
+<./img/img-12.jpg, id=183, 228.855pt x 149.8097pt>
 File: ./img/img-12.jpg Graphic file (type jpg)
 <use ./img/img-12.jpg>
 Package pdftex.def Info: ./img/img-12.jpg  used on input line 590.
 (pdftex.def)             Requested size: 318.49861pt x 208.50002pt.
-<./img/img-5.png, id=185, 244.66406pt x 94.10156pt>
+ [12pdfTeX warning (ext4): destination with the same identifier (name{table.2.1
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.593 \end{figure}
+                  ]
+<./img/img-5.png, id=193, 244.66406pt x 94.10156pt>
 File: ./img/img-5.png Graphic file (type png)
 <use ./img/img-5.png>
 Package pdftex.def Info: ./img/img-5.png  used on input line 601.
 (pdftex.def)             Requested size: 227.5pt x 87.50204pt.
-<./img/img-7.jpg, id=187, 1178.90437pt x 647.41875pt>
+<./img/img-7.jpg, id=195, 1178.90437pt x 647.41875pt>
 File: ./img/img-7.jpg Graphic file (type jpg)
 <use ./img/img-7.jpg>
 Package pdftex.def Info: ./img/img-7.jpg  used on input line 608.
@@ -931,12 +936,14 @@ l.612
                                                   \fi \fi 
 l.612 
        <./img/img-12.jpg> <./img/img-5.png>]
-<./img/img-6.png, id=194, 1026.83624pt x 475.7775pt>
+<./img/img-6.png, id=201, 1026.83624pt x 475.7775pt>
 File: ./img/img-6.png Graphic file (type png)
 <use ./img/img-6.png>
 Package pdftex.def Info: ./img/img-6.png  used on input line 615.
 (pdftex.def)             Requested size: 227.5pt x 105.4046pt.
-<./img/img-8.jpg, id=197, 301.125pt x 301.125pt>
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 620.
+<./img/img-8.jpg, id=204, 301.125pt x 301.125pt>
 File: ./img/img-8.jpg Graphic file (type jpg)
 <use ./img/img-8.jpg>
 Package pdftex.def Info: ./img/img-8.jpg  used on input line 628.
@@ -954,12 +961,12 @@ l.632
                                                   \fi \fi 
 l.632 
        <./img/img-7.jpg> <./img/img-6.png>]
-<./img/img-9.jpg, id=204, 434.62375pt x 434.62375pt>
+<./img/img-9.jpg, id=211, 434.62375pt x 434.62375pt>
 File: ./img/img-9.jpg Graphic file (type jpg)
 <use ./img/img-9.jpg>
 Package pdftex.def Info: ./img/img-9.jpg  used on input line 637.
 (pdftex.def)             Requested size: 227.5pt x 227.50444pt.
-<./img/img-14.png, id=206, 437.4744pt x 203.8014pt>
+<./img/img-14.png, id=213, 437.4744pt x 203.8014pt>
 File: ./img/img-14.png Graphic file (type png)
 <use ./img/img-14.png>
 Package pdftex.def Info: ./img/img-14.png  used on input line 646.
@@ -981,7 +988,7 @@ l.650
 LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead on input line 651.
 
-<./img/img-16.png, id=212, 779.91376pt x 383.4325pt>
+<./img/img-16.png, id=219, 779.91376pt x 383.4325pt>
 File: ./img/img-16.png Graphic file (type png)
 <use ./img/img-16.png>
 Package pdftex.def Info: ./img/img-16.png  used on input line 657.
@@ -1001,7 +1008,7 @@ l.665
                                                   \fi \fi 
 l.665 
        <./img/img-14.png> <./img/img-16.png (PNG copy)>]
-<./img/img-15.png, id=221, 779.91376pt x 383.4325pt>
+<./img/img-15.png, id=230, 779.91376pt x 383.4325pt>
 File: ./img/img-15.png Graphic file (type png)
 <use ./img/img-15.png>
 Package pdftex.def Info: ./img/img-15.png  used on input line 670.
@@ -1038,77 +1045,88 @@ l.745
       ] [19] [20
 
 ]
-<./img/img-17.png, id=246, 846.91406pt x 368.87813pt>
+<./img/img-20.png, id=254, 894.34125pt x 197.98969pt>
+File: ./img/img-20.png Graphic file (type png)
+<use ./img/img-20.png>
+Package pdftex.def Info: ./img/img-20.png  used on input line 766.
+(pdftex.def)             Requested size: 364.00139pt x 80.58415pt.
+<./img/img-17.png, id=255, 846.91406pt x 368.87813pt>
 File: ./img/img-17.png Graphic file (type png)
 <use ./img/img-17.png>
-Package pdftex.def Info: ./img/img-17.png  used on input line 766.
+Package pdftex.def Info: ./img/img-17.png  used on input line 773.
 (pdftex.def)             Requested size: 364.00139pt x 158.54132pt.
  [21
 
-] [22pdfTeX warning (ext4): destination with the same identifier (name{figure.4
-.10}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.10})
+ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.785 
+l.777 
+       <./img/img-20.png>] [22pdfTeX warning (ext4): destination with the same 
+identifier (name{figure.4.11}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.792 
        <./img/img-17.png>]
-<./img/img-18.png, id=263, 657.2053pt x 375.65344pt>
+<./img/img-18.png, id=273, 657.2053pt x 375.65344pt>
 File: ./img/img-18.png Graphic file (type png)
 <use ./img/img-18.png>
-Package pdftex.def Info: ./img/img-18.png  used on input line 791.
+Package pdftex.def Info: ./img/img-18.png  used on input line 798.
 (pdftex.def)             Requested size: 364.00139pt x 208.06021pt.
-<./img/img-13.jpg, id=265, 446.41782pt x 178.41656pt>
+<./img/img-13.jpg, id=275, 446.41782pt x 178.41656pt>
 File: ./img/img-13.jpg Graphic file (type jpg)
 <use ./img/img-13.jpg>
-Package pdftex.def Info: ./img/img-13.jpg  used on input line 802.
+Package pdftex.def Info: ./img/img-13.jpg  used on input line 809.
 (pdftex.def)             Requested size: 364.00139pt x 145.48033pt.
  [23pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-11}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.806 
-       <./img/img-18.png>]
-<./img/img-1.png, id=273, 3323.41624pt x 1413.28pt>
-File: ./img/img-1.png Graphic file (type png)
-<use ./img/img-1.png>
-Package pdftex.def Info: ./img/img-1.png  used on input line 811.
-(pdftex.def)             Requested size: 364.00139pt x 154.7712pt.
-<./img/img-10.jpg, id=274, 2445.135pt x 2013.5225pt>
-File: ./img/img-10.jpg Graphic file (type jpg)
-<use ./img/img-10.jpg>
-Package pdftex.def Info: ./img/img-10.jpg  used on input line 818.
-(pdftex.def)             Requested size: 364.00139pt x 299.74178pt.
- [24pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
 12}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.822 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-4.13}) has been already used, duplicate ignored
+l.813 
+       <./img/img-18.png>]
+<./img/img-1.png, id=283, 3323.41624pt x 1413.28pt>
+File: ./img/img-1.png Graphic file (type png)
+<use ./img/img-1.png>
+Package pdftex.def Info: ./img/img-1.png  used on input line 818.
+(pdftex.def)             Requested size: 364.00139pt x 154.7712pt.
+<./img/img-10.jpg, id=284, 2445.135pt x 2013.5225pt>
+File: ./img/img-10.jpg Graphic file (type jpg)
+<use ./img/img-10.jpg>
+Package pdftex.def Info: ./img/img-10.jpg  used on input line 825.
+(pdftex.def)             Requested size: 364.00139pt x 299.74178pt.
+ [24pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+13}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.822 
+l.829 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+4.14}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.829 
        <./img/img-13.jpg> <./img/img-1.png>]
-<./img/img-19.png, id=282, 551.81157pt x 384.6872pt>
+<./img/img-19.png, id=292, 551.81157pt x 384.6872pt>
 File: ./img/img-19.png Graphic file (type png)
 <use ./img/img-19.png>
-Package pdftex.def Info: ./img/img-19.png  used on input line 827.
+Package pdftex.def Info: ./img/img-19.png  used on input line 834.
 (pdftex.def)             Requested size: 364.00139pt x 253.77106pt.
  [25pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
-14}) has been already used, duplicate ignored
+15}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.833 
+l.840 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
-4.15}) has been already used, duplicate ignored
+4.16}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.833 
+l.840 
        <./img/img-10.jpg> <./img/img-19.png>] [26] (TCC_TSI.bbl (TCC_TSI.brf)
 \tf@brf=\write5
 \openout5 = `TCC_TSI.brf'.
@@ -1124,119 +1142,119 @@ bibitemlist
 
 
 ]
-<./img/anex-img-1.jpg, id=353, 454.69875pt x 102.3825pt>
+<./img/anex-img-1.jpg, id=363, 454.69875pt x 102.3825pt>
 File: ./img/anex-img-1.jpg Graphic file (type jpg)
 <use ./img/anex-img-1.jpg>
-Package pdftex.def Info: ./img/anex-img-1.jpg  used on input line 972.
+Package pdftex.def Info: ./img/anex-img-1.jpg  used on input line 979.
 (pdftex.def)             Requested size: 364.00139pt x 81.96234pt.
-<./img/anex-img-2.jpg, id=354, 454.69875pt x 73.02281pt>
+<./img/anex-img-2.jpg, id=364, 454.69875pt x 73.02281pt>
 File: ./img/anex-img-2.jpg Graphic file (type jpg)
 <use ./img/anex-img-2.jpg>
-Package pdftex.def Info: ./img/anex-img-2.jpg  used on input line 979.
+Package pdftex.def Info: ./img/anex-img-2.jpg  used on input line 986.
 (pdftex.def)             Requested size: 364.00139pt x 58.45842pt.
-<./img/anex-img-3.jpg, id=355, 457.71pt x 58.71938pt>
+<./img/anex-img-3.jpg, id=365, 457.71pt x 58.71938pt>
 File: ./img/anex-img-3.jpg Graphic file (type jpg)
 <use ./img/anex-img-3.jpg>
-Package pdftex.def Info: ./img/anex-img-3.jpg  used on input line 984.
+Package pdftex.def Info: ./img/anex-img-3.jpg  used on input line 991.
 (pdftex.def)             Requested size: 364.00139pt x 46.69957pt.
 
-Overfull \hbox (5.38737pt too wide) in paragraph at lines 987--988
+Overfull \hbox (5.38737pt too wide) in paragraph at lines 994--995
 []\T1/lmr/m/n/12 5$[]$ Passo: Após ter ex-traído os ar-qui-vos, re-no-meie o ar
 -quivo Arduino-big-joystick.hex
  []
 
-<./img/anex-img-4.jpg, id=356, 450.18187pt x 84.315pt>
+<./img/anex-img-4.jpg, id=366, 450.18187pt x 84.315pt>
 File: ./img/anex-img-4.jpg Graphic file (type jpg)
 <use ./img/anex-img-4.jpg>
-Package pdftex.def Info: ./img/anex-img-4.jpg  used on input line 991.
+Package pdftex.def Info: ./img/anex-img-4.jpg  used on input line 998.
 (pdftex.def)             Requested size: 364.00139pt x 68.17767pt.
 [31
 
  <./img/anex-img-1.jpg> <./img/anex-img-2.jpg> <./img/anex-img-3.jpg>]
-<./img/anex-img-5.jpg, id=361, 456.20438pt x 111.41624pt>
+<./img/anex-img-5.jpg, id=371, 456.20438pt x 111.41624pt>
 File: ./img/anex-img-5.jpg Graphic file (type jpg)
 <use ./img/anex-img-5.jpg>
-Package pdftex.def Info: ./img/anex-img-5.jpg  used on input line 996.
+Package pdftex.def Info: ./img/anex-img-5.jpg  used on input line 1003.
 (pdftex.def)             Requested size: 364.00139pt x 88.90019pt.
-<./img/anex-img-6.jpg, id=362, 481.8pt x 272.51813pt>
+<./img/anex-img-6.jpg, id=372, 481.8pt x 272.51813pt>
 File: ./img/anex-img-6.jpg Graphic file (type jpg)
 <use ./img/anex-img-6.jpg>
-Package pdftex.def Info: ./img/anex-img-6.jpg  used on input line 1003.
+Package pdftex.def Info: ./img/anex-img-6.jpg  used on input line 1010.
 (pdftex.def)             Requested size: 364.00139pt x 205.89339pt.
-<./img/anex-img-7.jpg, id=363, 190.7125pt x 112.42pt>
+<./img/anex-img-7.jpg, id=373, 190.7125pt x 112.42pt>
 File: ./img/anex-img-7.jpg Graphic file (type jpg)
 <use ./img/anex-img-7.jpg>
-Package pdftex.def Info: ./img/anex-img-7.jpg  used on input line 1010.
+Package pdftex.def Info: ./img/anex-img-7.jpg  used on input line 1017.
 (pdftex.def)             Requested size: 181.99722pt x 107.28728pt.
 
 [32 <./img/anex-img-4.jpg> <./img/anex-img-5.jpg> <./img/anex-img-6.jpg> <./img
 /anex-img-7.jpg>]
-<./img/anex-img-8.jpg, id=368, 435.12563pt x 216.81pt>
+<./img/anex-img-8.jpg, id=378, 435.12563pt x 216.81pt>
 File: ./img/anex-img-8.jpg Graphic file (type jpg)
 <use ./img/anex-img-8.jpg>
-Package pdftex.def Info: ./img/anex-img-8.jpg  used on input line 1017.
+Package pdftex.def Info: ./img/anex-img-8.jpg  used on input line 1024.
 (pdftex.def)             Requested size: 318.49861pt x 158.70667pt.
-<./img/anex-img-9.jpg, id=369, 392.96812pt x 177.66376pt>
+<./img/anex-img-9.jpg, id=379, 392.96812pt x 177.66376pt>
 File: ./img/anex-img-9.jpg Graphic file (type jpg)
 <use ./img/anex-img-9.jpg>
-Package pdftex.def Info: ./img/anex-img-9.jpg  used on input line 1024.
+Package pdftex.def Info: ./img/anex-img-9.jpg  used on input line 1031.
 (pdftex.def)             Requested size: 273.00278pt x 123.43393pt.
-<./img/anex-img-10.jpg, id=370, 233.37187pt x 150.5625pt>
+<./img/anex-img-10.jpg, id=380, 233.37187pt x 150.5625pt>
 File: ./img/anex-img-10.jpg Graphic file (type jpg)
 <use ./img/anex-img-10.jpg>
-Package pdftex.def Info: ./img/anex-img-10.jpg  used on input line 1031.
+Package pdftex.def Info: ./img/anex-img-10.jpg  used on input line 1038.
 (pdftex.def)             Requested size: 227.5pt x 146.7806pt.
-<./img/anex-img-11.jpg, id=371, 189.70876pt x 179.92218pt>
+<./img/anex-img-11.jpg, id=381, 189.70876pt x 179.92218pt>
 File: ./img/anex-img-11.jpg Graphic file (type jpg)
 <use ./img/anex-img-11.jpg>
-Package pdftex.def Info: ./img/anex-img-11.jpg  used on input line 1038.
+Package pdftex.def Info: ./img/anex-img-11.jpg  used on input line 1045.
 (pdftex.def)             Requested size: 181.99722pt x 172.61076pt.
  [33 <./img/anex-img-8.jpg> <./img/anex-img-9.jpg> <./img/anex-img-10.jpg>]
-<./img/anex-img-12.jpg, id=376, 263.48438pt x 132.495pt>
+<./img/anex-img-12.jpg, id=386, 263.48438pt x 132.495pt>
 File: ./img/anex-img-12.jpg Graphic file (type jpg)
 <use ./img/anex-img-12.jpg>
-Package pdftex.def Info: ./img/anex-img-12.jpg  used on input line 1047.
+Package pdftex.def Info: ./img/anex-img-12.jpg  used on input line 1054.
 (pdftex.def)             Requested size: 181.99722pt x 91.52272pt.
-<./img/anex-img-13.jpg, id=377, 302.63063pt x 381.67593pt>
+<./img/anex-img-13.jpg, id=387, 302.63063pt x 381.67593pt>
 File: ./img/anex-img-13.jpg Graphic file (type jpg)
 <use ./img/anex-img-13.jpg>
-Package pdftex.def Info: ./img/anex-img-13.jpg  used on input line 1054.
+Package pdftex.def Info: ./img/anex-img-13.jpg  used on input line 1061.
 (pdftex.def)             Requested size: 181.99722pt x 229.5373pt.
-<./img/anex-img-14.jpg, id=378, 341.77687pt x 382.42876pt>
+<./img/anex-img-14.jpg, id=388, 341.77687pt x 382.42876pt>
 File: ./img/anex-img-14.jpg Graphic file (type jpg)
 <use ./img/anex-img-14.jpg>
-Package pdftex.def Info: ./img/anex-img-14.jpg  used on input line 1061.
+Package pdftex.def Info: ./img/anex-img-14.jpg  used on input line 1068.
 (pdftex.def)             Requested size: 227.5pt x 254.56284pt.
  [34 <./img/anex-img-11.jpg> <./img/anex-img-12.jpg> <./img/anex-img-13.jpg>]
-<./img/anex-img-15.jpg, id=383, 642.4pt x 401.5pt>
+<./img/anex-img-15.jpg, id=393, 642.4pt x 401.5pt>
 File: ./img/anex-img-15.jpg Graphic file (type jpg)
 <use ./img/anex-img-15.jpg>
-Package pdftex.def Info: ./img/anex-img-15.jpg  used on input line 1068.
+Package pdftex.def Info: ./img/anex-img-15.jpg  used on input line 1075.
 (pdftex.def)             Requested size: 364.00139pt x 227.50343pt.
-<./img/anex-img-16.jpg, id=384, 642.4pt x 401.5pt>
+<./img/anex-img-16.jpg, id=394, 642.4pt x 401.5pt>
 File: ./img/anex-img-16.jpg Graphic file (type jpg)
 <use ./img/anex-img-16.jpg>
-Package pdftex.def Info: ./img/anex-img-16.jpg  used on input line 1075.
+Package pdftex.def Info: ./img/anex-img-16.jpg  used on input line 1082.
 (pdftex.def)             Requested size: 364.00139pt x 227.50343pt.
  [35 <./img/anex-img-14.jpg> <./img/anex-img-15.jpg>]
-<./img/anex-img-17.jpg, id=389, 642.4pt x 401.5pt>
+<./img/anex-img-17.jpg, id=399, 642.4pt x 401.5pt>
 File: ./img/anex-img-17.jpg Graphic file (type jpg)
 <use ./img/anex-img-17.jpg>
-Package pdftex.def Info: ./img/anex-img-17.jpg  used on input line 1082.
+Package pdftex.def Info: ./img/anex-img-17.jpg  used on input line 1089.
 (pdftex.def)             Requested size: 273.00278pt x 170.63217pt.
-<./img/anex-img-18.jpg, id=390, 642.4pt x 337.26pt>
+<./img/anex-img-18.jpg, id=400, 642.4pt x 337.26pt>
 File: ./img/anex-img-18.jpg Graphic file (type jpg)
 <use ./img/anex-img-18.jpg>
-Package pdftex.def Info: ./img/anex-img-18.jpg  used on input line 1089.
+Package pdftex.def Info: ./img/anex-img-18.jpg  used on input line 1096.
 (pdftex.def)             Requested size: 318.49861pt x 167.21439pt.
  [36 <./img/anex-img-16.jpg> <./img/anex-img-17.jpg> <./img/anex-img-18.jpg>]
-<./img/anex-img-19.jpg, id=396, 642.4pt x 463.7325pt>
+<./img/anex-img-19.jpg, id=406, 642.4pt x 463.7325pt>
 File: ./img/anex-img-19.jpg Graphic file (type jpg)
 <use ./img/anex-img-19.jpg>
-Package pdftex.def Info: ./img/anex-img-19.jpg  used on input line 1096.
+Package pdftex.def Info: ./img/anex-img-19.jpg  used on input line 1103.
 (pdftex.def)             Requested size: 364.00139pt x 262.76646pt.
 
-Overfull \hbox (15.13504pt too wide) in paragraph at lines 1103--1104
+Overfull \hbox (15.13504pt too wide) in paragraph at lines 1110--1111
 []\T1/lmr/m/n/12 https://mega.nz/#!xIhUxC6J!09gFgfu2v187Nu05q7ybW0L6-yoPQdfkY8A
 xtxx77Xg 
  []
@@ -1254,11 +1272,11 @@ AED: lastpage setting LastPage
 \tf@toc=\write8
 \openout8 = `TCC_TSI.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1117.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1117.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1124.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1124.
  (TCC_TSI.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1117.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1117.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1124.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1124.
 
 Package rerunfilecheck Info: File `TCC_TSI.brf' has not changed.
 (rerunfilecheck)             Checksum: DA87B1ACCFBDEECF314700F497422E31;358.
@@ -1269,38 +1287,37 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1117.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1124.
  ) 
 Here is how much of TeX's memory you used:
- 11672 strings out of 492895
- 173513 string characters out of 3123735
- 310219 words of memory out of 3000000
- 15190 multiletter control sequences out of 15000+200000
- 92604 words of font info for 60 fonts, out of 3000000 for 9000
+ 11683 strings out of 492895
+ 173671 string characters out of 3123735
+ 310347 words of memory out of 3000000
+ 15198 multiletter control sequences out of 15000+200000
+ 88149 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,13n,31p,986b,557s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,13n,31p,993b,557s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/gui_b/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathi
 t.enc}{C:/Users/gui_b/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-e
 c.enc}{C:/Users/gui_b/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-m
 athsy.enc}<C:/Users/gui_b/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
 amsfonts/cm/cmsy10.pfb><C:/Users/gui_b/AppData/Local/Programs/MiKTeX 2.9/fonts/
 type1/public/lm/lmbx10.pfb><C:/Users/gui_b/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/lm/lmbx12.pfb><C:/Users/gui_b/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/gui_b/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/lm/lmmi12.pfb><C:/Users/gui_b/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Users/gui_b/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Users/gui_b/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/lm/lmr7.pfb><C:/Users/gui_b/AppData/Local/P
-rograms/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Users/gui_b/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Users/gui_b/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Users/gui_b/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Users/gui_b/A
-ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Users/gui_
-b/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/User
-s/gui_b/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on TCC_TSI.pdf (38 pages, 12211942 bytes).
+nts/type1/public/lm/lmmi12.pfb><C:/Users/gui_b/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/lm/lmr10.pfb><C:/Users/gui_b/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Users/gui_b/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/lm/lmr7.pfb><C:/Users/gui_b/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Users/gui_b/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Users/gui_b/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Users/gui_b/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Users/gui_b/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Users/gui_b/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/gui_b/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb><C:/Users/gu
+i_b/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
+Output written on TCC_TSI.pdf (38 pages, 12236041 bytes).
 PDF statistics:
- 557 PDF objects out of 1000 (max. 8388607)
- 114 named destinations out of 1000 (max. 500000)
- 399 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 574 PDF objects out of 1000 (max. 8388607)
+ 118 named destinations out of 1000 (max. 500000)
+ 428 words of extra memory for PDF output out of 10000 (max. 10000000)
 

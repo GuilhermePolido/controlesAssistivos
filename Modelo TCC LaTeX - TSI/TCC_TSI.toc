@@ -13,6 +13,9 @@
 \contentsline {subsection}{\numberline {2.1.4}Acessibilidade}{10}{subsection.2.1.4}% 
 \contentsline {subsection}{\numberline {2.1.5}Interatividade}{10}{subsection.2.1.5}% 
 \contentsline {section}{\numberline {2.2}Tecnologia assistiva}{11}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Ponteiras de Cabe\IeC {\c c}a}{13}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}Teclados Especiais}{13}{subsection.2.2.2}% 
+\contentsline {subsection}{\numberline {2.2.3}\emph {Mouses} Adaptados}{14}{subsection.2.2.3}% 
 \contentsline {section}{\numberline {2.3}Plataforma ARDUINO\IeC {\textregistered }}{16}{section.2.3}% 
 \contentsline {section}{\numberline {2.4}Biblioteca Unojoy}{18}{section.2.4}% 
 \contentsline {chapter}{\chapternumberline {3}Metodologia}{20}{chapter.3}% 
