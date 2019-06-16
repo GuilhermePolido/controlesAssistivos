@@ -360,7 +360,7 @@ COORDENAÇÃO DO CURSO DE TECNOLOGIA EM SISTEMAS PARA INTERNET
 
 % resumo em português
 \begin{resumo}
-	A área de tecnologia assistiva surgiu para possibilitar que pessoas com algum tipo de deficiência física ou motora tenham uma vida autônoma, oferecendo alguns recursos, produtos ou até mesmo métodos para auxiliá-los. Esse trabalho tem o objetivo de criar controles para computador voltados para tecnologia assistiva, e IHC (Interação Humano Computador). Para atingir esse objetivo serão realizados testes de usabilidade com pessoas portadoras de algum tipo de deficiência física ou motora a qual dificulte ou até mesmo impossibilite o uso do computador. Os controles serão construídos com materiais de fácil manuseio presentes no mercado atual.
+A área de tecnologia assistiva surgiu para possibilitar que pessoas com algum tipo de deficiência física ou motora tenham uma vida autônoma, oferecendo alguns recursos, produtos ou até mesmo métodos para auxiliá-los. Esse trabalho tem o objetivo de criar controles para computador voltados para tecnologia assistiva, e IHC (Interação Humano Computador). Para atingir esse objetivo serão realizados testes de usabilidade com pessoas portadoras de algum tipo de deficiência física ou motora a qual dificulte ou até mesmo impossibilite o uso do computador. Os controles serão construídos com materiais de fácil manuseio presentes no mercado atual.
 
 \vspace{\onelineskip}
 \noindent
@@ -370,11 +370,11 @@ COORDENAÇÃO DO CURSO DE TECNOLOGIA EM SISTEMAS PARA INTERNET
 % resumo em inglês
 \begin{resumo}[Abstract]
 \begin{otherlanguage*}{english}
-Write Abstract
+The area of assistive technology has arisen to enable people with some form of physical or motor disability to lead an autonomous life, offering some resources, products or even methods to assist them. This work aims to create computer controls aimed at assistive technology, and HCI (Human Computer Interaction). In order to achieve this goal, we will perform usability tests with people with some kind of physical or motor deficiency that makes it difficult or even impossible to use the computer. The controls will be constructed with easy-to-handle materials present in the current market.
 
 \vspace{\onelineskip}
 \noindent
-\textbf{Key-words}: .
+\textbf{Key-words}: Assistive Technology, Usability, Physical Disability, HCI.
 \end{otherlanguage*}
 \end{resumo}
 % ---
@@ -445,7 +445,7 @@ Algumas deficiências e/ou doenças como paralisia cerebral, esclerose múltipla
 
 O surgimento da área de tecnologia assistiva, se deu devido a necessidade de inclusão dessas pessoas com algum tipo de impossibilidade motora a sociedade em geral. Ou seja, a tecnologia assistiva apresenta uma série de produtos, recursos, metodologias e práticas a fim de promover a autonomia desses indivíduos dentro da sociedade em que está inserido. Com a tecnologia assistiva a utilização de computadores por essas pessoas torna-se recorrente. Porém o custo de um equipamento com essa finalidade normalmente é alto, e nem todos possuem condições para adquiri-los.
 
-No mercado é possível encontrar alguns controles para deficientes físicos, os quais são apresentados ao longo do trabalho, como por exemplo o Trackball, Roller Mouse, Teclado Tix, entre outros.
+No mercado é possível encontrar alguns controles para deficientes físicos, os quais são apresentados ao longo do trabalho, como por exemplo o \emph{Trackball}, \emph{Roller Mouse}, Teclado \emph{Tix}, entre outros.
 
 Na computação existe a área de IHC (Interface Homem Computador), a qual tem o objetivo de estudar as formas que humanos interagirem com um computador. Ou seja, estuda a interface pela qual usuários interagem com o computador, seja ela páginas \emph{web}, teclados adaptativos para deficientes físicos, entre outros. Além disso a área de IHC oferece várias formas de realizar testes unitários a fim de avaliar a experiência do usuário com aquela interface desenvolvida.
 
@@ -460,7 +460,7 @@ Criar controles voltados para tecnologia assistiva utilizando técnicas de avali
 \subsection{Objetivos Específicos}
 \begin{itemize}
 	\item Definir o conjunto de comandos que serão implementados nos controles.
-	\item Definir os materiais necessários de forma que seja fácial a sua montagem.
+	\item Definir os materiais necessários de forma que seja fácil a sua montagem.
 	\item Montar os controles de acordo com o que foi definido.
 	\item Realizar e avaliar testes com pessoas portadoras de alguma deficiência física, que impossibilite o uso do computador.
 \end{itemize}
@@ -644,7 +644,7 @@ Em 2015 a empresa brasileira TIX, lançou um produto chamado de Teclado Intelige
 \begin{figure}[H]
 	\centering
 		\includegraphics[width=0.7\textwidth]{./img/img-14.png}
-		\caption{TIXX}
+		\caption{Teclado TIX}
 		\label{img:img-14}
 \end{figure}
 
@@ -746,49 +746,52 @@ Para a construção dos controles pode ser utilizado o ARDUINO® UNO R3, sendo o
 \chapter{Metodologia}
 \label{met}
 
-Esse trabalho é de natureza qualitativa, na qual se baseou em um projeto de extenção com parceria da FUNDETEC (Fundação para o Desenvolvimento Científico e Tecnológico), desenvolvido em 2016 pelo professor orientador em conjunto com outros alunos da UTFPR. Esse trabalho desenvolvido em 2016 abordou durante seu desenvolvimento e testes algumas informações importantes, as quais foram utilizadas para a construção do nosso controle. Durante três anos pessoas com deficiência motora utilizaram esse controle em ambiente controlado, e durante esse tempo, foram levantados algumas possíveis melhorias, as quais foram aplicadas no presente trabalho.
+Baseando-se em um estudo exploratório onde foi pesquisas principalmente sobre os temas tecnologia assistiva e IHC, sendo assim possível adquirir mais conhecimento sobre eles. Sendo um trabalho qualitativo onde a pesquisa levantou o que é necessário para a criação de controles voltados para tecnologia assistiva. Toda a pesquisa foi feita baseada em artigos, livros, e conteúdos de sites encontrados na internet.
+
+Além das pesquisas esse trabalho também se baseou em um projeto de extensão com parceria da FUNDETEC (Fundação para o Desenvolvimento Científico e Tecnológico), desenvolvido em 2016 pelo professor orientador em conjunto com outros alunos da UTFPR.
 
 Após a construção dos novos controles foram feitos alguns testes, os quais tiveram resultados positivos. Ao realizar testes com duas pessoas foi possível notar que a regulagem da inclinação do controle foi bem aceita, a utilização do manche, para movimentação do \emph{mouse}, como descrito pelos participantes do testes, foi fácil e simples. Porém ainda foram encontrados alguns problemas com a fixação dos controles na mesa e altura dos mesmo.
 
 \chapter{Desenvolvimento}
 \label{des}
 
-Para iniciar o desenvolvimento do projeto, foi primeiramente feito uma pesquisa sobre plataformas de desenvolvimento que possibilitam a comunicação com o computador como um \emph{joystick}. A escolha do tipo de interação com o computador utilizando \emph{joysticks} tem como principal funcionalidade, adicionar vários componentes e cada um realizar uma tarefa específica. Elementos joystick em computadores normalmente são utilizados para entretenimento, mas ao mapear as funções de cada botão, observou-se a possibilidade de utilizar como tecnologia assistiva. O resultado dessa pesquisa foi o microcontrolador PIC \footnote{Sigla PIC, do inglês \emph{Programmable Interrupt Controller}} e a plataforma ARDUINO®, a vantagem da plataforma ARDUINO® é de estar pronta para ser utilizada, diferentemente do PIC, o qual deve ser montado o circuito eletrônico com componentes específicos, exigindo assim maior conhecimento técnico sobre o assunto.
+Para iniciar o desenvolvimento do projeto, foi primeiramente feito uma pesquisa sobre plataformas de desenvolvimento que possibilitam a comunicação com o computador como um \emph{joystick}. A escolha do tipo de interação com o computador utilizando \emph{joysticks} tem como principal funcionalidade, adicionar vários componentes e cada um realizar uma tarefa específica. Elementos \emph{joystick} em computadores normalmente são utilizados para entretenimento, mas ao mapear as funções de cada botão, observou-se a possibilidade de utilizar como tecnologia assistiva. O resultado dessa pesquisa foi o microcontrolador PIC \footnote{Sigla PIC, do inglês \emph{Programmable Interrupt Controller}} e a plataforma ARDUINO®, a vantagem da plataforma ARDUINO® é de estar pronta para ser utilizada, diferentemente do PIC, o qual deve ser montado o circuito eletrônico com componentes específicos, exigindo assim maior conhecimento técnico sobre o assunto.
 
 Após definir que será utilizada a plataforma ARDUINO®, foi feita outra pesquisa sobre códigos abertos relacionados a utilização do ARDUINO® no computador como \emph{joystick}. Resultando assim na biblioteca \emph{UnoJoy}, a qual possibilita o funcionamento nos ARDUINO® UNO, MEGA e LEONARDO. Ao se utilizar essa biblioteca o ARDUINO® é reconhecido pelo computador como um \emph{joystick}. Com isso é possível fazer o mapeamento e configurar a ação de cada tecla dos controles. No Anexo \ref{ref:anexoa} é explicado como é feita a instalação/configuração da biblioteca \emph{UnoJoy} no ARDUINO® UNO.
 
 Para simular comandos no sistema operacional pode ser utilizado os \emph{softwares} JoyToKey, Antimicro, Xpadder ou qualquer outro que tenha funcionalidades similares. Nos testes e durante o desenvolvimento foi utilizado o Antimicro e Xpadder. Com esses \emph{softwares} podem ser simulado desde o clique e movimentação do \emph{mouse} até mesmo abrir programas específicos, como o teclado virtual, navegador, entre outros.
 
-Antes da montagem dos controles foram feitos alguns desenhos em 3D utilizando o programa Sketchup, como vemos na Figura \ref{img:img-20} . Os modelos finais que foram utilizados para corte e montagem dos teclados estão no endereço MEVERICK...... . A Figura \ref{img:img-17} mostra como ficou o controle que contém 10 botões configuráveis e o controle responsável pela movimentação do \emph{mouse}.
+Antes da montagem dos controles foram feitos alguns desenhos em 3D utilizando o programa Sketchup, como vemos na Figura \ref{img:img-20}. A Figura \ref{img:img-17} mostra como ficou a versão final \footnote{Os modelos finais que foram utilizados para corte e montagem dos teclados estão no endereço http://maverick.td.utfpr.edu.br/acessibilidade} do controle que contém 10 botões configuráveis e o controle responsável pela movimentação do \emph{mouse}.
 
 \begin{figure}[H]
 	\centering
 		\includegraphics[width=0.8\textwidth]{./img/img-20.png}
-		\caption{Desenhos 3D no Software Sketchup}
+		\caption{Desenhos 3D no \emph{Software} Sketchup}
 		\label{img:img-20}
 \end{figure}
 
 \begin{figure}[H]
 	\centering
 		\includegraphics[width=0.8\textwidth]{./img/img-17.png}
-		\caption{Desenhos Finais em 3D no Software Sketchup dos dois controles}
+		\caption{Desenhos Finais em 3D no \emph{Software} Sketchup dos dois controles}
 		\label{img:img-17}
 \end{figure}
 
 Para a construção dos controles, foram utilizados os seguintes materiais:
 \begin{itemize}
-\item ARDUINO® Uno, com a biblioteca Unojoy carregado em sua memória, o controlador é responsável por fazer o mapeamento e a comunicação entre os controles e a porta USB do computador.
-\item Botões de controles de videogame arcade. Serão responsáveis por receber os comandos do usuário e enviá-los para o ARDUINO®.
-\item Chapas de MDF \footnote{Sigla MDF, do inglês Medium Density Fiberboard} de 6 e 15mm. As quais foram utilizadas para a construção da estrutura dos controles.
-\item Software AntiMicro, responsável por simular cada tecla dos controles como uma função para o sistema operacional.
-\item Software Sketchup, onde foi feito os desenhos 3D dos controles.
-\item Maquina CNC \footnote{Sigla CNC, do inglês Computer Numeric Control}, os desenhos 3D foram utilizados para realizar os cortes do MDF numa máquina CNC, porém podem ser facilmente cortados com ferramentas mais simples.
+\item ARDUINO® UNO, com a biblioteca Unojoy carregado em sua memória, o controlador é responsável por fazer o mapeamento e a comunicação entre os controles e a porta USB do computador.
+\item Botões de controles de videogame \emph{arcade}. Serão responsáveis por receber os comandos do usuário e enviá-los para o ARDUINO®.
+\item Chapas de MDF \footnote{Sigla MDF, do inglês \emph{Medium Density Fiberboard}} de 6 e 15mm. As quais foram utilizadas para a construção da estrutura dos controles.
+\item \emph{Software} AntiMicro, responsável por simular cada tecla dos controles como uma função para o sistema operacional.
+\item \emph{Software} Sketchup, onde foi feito os desenhos 3D dos controles.
+\item Maquina CNC \footnote{Sigla CNC, do inglês\emph{ Computer Numeric Control}}, os desenhos 3D foram utilizados para realizar os cortes do MDF numa máquina CNC, porém podem ser facilmente cortados com ferramentas mais simples.
 \item Cianoacrilato, popularmente conhecido como super cola, para juntar e fixar todas as partes dos controles.
 \item Fios para a ligação dos botões ao ARDUINO®.
 \end{itemize}
 
 Baseando se no relatório do projeto de extensão realizado no ano de 2016, pelo professor orientador em conjunto com outros alunos da UTFPR, o qual levantou algumas informações úteis que foram utilizadas no projeto atual, como:
-O espaçamento entre botões, deve ser o suficiente para que ao apertar um botão o usuário não acabe “esbarrando” em outros, e acabe executando ações indesejáveis, como pode ser visto na Imagem \ref{img:img-17}, cada botão ficou aproximadamente 5 cm de distância, da área onde é pressionado , um do outro.
+
+O espaçamento entre botões, deve ser o suficiente para que ao apertar um botão o usuário não acabe pela dificuldade motora, pressionando botões indesejáveis, e acabe executando outras ações. Como pode ser visto na Imagem \ref{img:img-17}, cada botão ficou aproximadamente 5 cm de distância, da área onde é pressionado , um do outro.
 
 A altura do controle deveria ser a mínima possível, visto que o usuário pode encontrar alguma dificuldade ao levantar os braços para alcançar os botões, no projeto ele ficou com aproximadamente 7 cm de altura.
 A inclinação do controle que já havia sido desenvolvido dificultava o uso para alguns usuários, a partir disso foi desenvolvido uma forma de ajustar a inclinação do mesmo (Figura \ref{img:img-18}), de forma que garanta uma melhor usabilidade e ergonomia.
@@ -796,38 +799,38 @@ A inclinação do controle que já havia sido desenvolvido dificultava o uso par
 \begin{figure}[H]
 	\centering
 		\includegraphics[width=0.8\textwidth]{./img/img-18.png}
-		\caption{Desenhos 3D do Ajuste de inclinação dos controles}
+		\caption{Desenhos 3D da versão final dos ajustes de inclinação dos controles}
 		\label{img:img-18}
 \end{figure}
 
 A montagem deveria ser relativamente fácil, para que uma pessoa que possua pouco conhecimento técnico também pudesse montar um. Então para isso foi escolhido a plataforma ARDUINO®, a qual já vem pronta para ser utilizada, bastando apenas carregar o código e conectar os botões.
 
-As cores dos botões deveriam ser de cores variadas, e com desenhos ilustrando suas funções, para facilitar a utilização por usuários com deficiência física, tendo em mente que alguns possuem dificuldade para diferenciar desenhos e posições dos botões. Os Botões do tipo árcade são indicados para isso, pois permitem a troca do desenho representativo dele, além de possuírem uma área de pressão relativamente grande e cores variadas, porém acabam sendo altos, como podemos ver na figura \ref{img:img-13} a altura é de aproximadamente 7 cm, o que acaba tornando o controle alto.
+As cores dos botões deveriam ser de cores variadas, e com desenhos ilustrando suas funções, para facilitar a utilização por usuários com deficiência física, tendo em mente que alguns possuem dificuldade para diferenciar desenhos e posições dos botões. Os Botões do tipo \emph{arcade} são indicados para isso, pois permitem a troca do desenho representativo dele, além de possuírem uma área de pressão relativamente grande e cores variadas, porém acabam sendo altos, como podemos ver na Figura \ref{img:img-13} a altura é de aproximadamente 7 cm, o que acaba tornando o controle alto.
 
 \begin{figure}[H]
 	\centering
-		\includegraphics[width=0.8\textwidth]{./img/img-13.jpg}
-		\caption{Dimensões do botão do tipo arcade}
+		\includegraphics[width=0.6\textwidth]{./img/img-13.jpg}
+		\caption{Dimensões do botão do tipo \emph{arcade}}
 		\label{img:img-13}
 \end{figure}
 
-Após realizar todos os cortes necessários nas chapas de MDF, foi feita a montagem das peças utilizando super cola, e inseridos todos os botões necessários na estrutura, o resultado pode ser visto nas figuras \ref{img:img-1} e \ref{img:img-10}.
+Após realizar todos os cortes necessários nas chapas de MDF, foi feita a montagem das peças utilizando super cola, e inseridos todos os botões necessários na estrutura, o resultado pode ser visto nas Figuras \ref{img:img-1} e \ref{img:img-10}.
 
 \begin{figure}[H]
 	\centering
-		\includegraphics[width=0.8\textwidth]{./img/img-1.png}
+		\includegraphics[width=0.6\textwidth]{./img/img-1.png}
 		\caption{Controle com botões de comandos montado}
 		\label{img:img-1}
 \end{figure}
 
 \begin{figure}[H]
 	\centering
-		\includegraphics[width=0.8\textwidth]{./img/img-10.jpg}
+		\includegraphics[width=0.6\textwidth]{./img/img-10.jpg}
 		\caption{Controle com manche montado}
 		\label{img:img-10}
 \end{figure}
 
-A ligação dos botões foi desenhada no site da tinkercad (Figura \ref{img:img-19}), o mesmo pode ser baixado no MAVERICK,.... . O resistor que foi utilizado é um simples de 650 Khoms, serão necessários 4 deles e alguns fios.
+A ligação dos botões foi desenhada no site da tinkercad (Figura \ref{img:img-19}) \footnote{O mesmo pode ser baixado na URL: http://maverick.td.utfpr.edu.br/acessibilidade}. O resistor que foi utilizado é um simples de 650 Khoms, serão necessários 4 deles e alguns fios.
 
 \begin{figure}[H]
 	\centering
@@ -838,8 +841,8 @@ A ligação dos botões foi desenhada no site da tinkercad (Figura \ref{img:img-
 
 Após feita a montagem da estrutura e ligação dos botões ao ARDUINO®, basta conecta-lo no computador, e o drive será instalado automaticamente. Após a instalação, utilizando o Antimicro ou Xpadder, deve ser configurado as funções de cada botão dos controles.
 
-Funções como aumentar ou diminuir o \emph{zoom}, click direito e esquerdo do \emph{mouse}, fechar a janela atual do sistema operacional, abrir o teclado virtual, movimentação do ponteiro do \emph{mouse}, entre outras funções são possíveis de serem configuradas.
-As funções podem ser configuradas de acordo com o perfil do usuario, por exemplo, um usuario que acessa mais a internet, certamente usaria mais as funções de:
+Funções como aumentar ou diminuir o \emph{zoom}, clique direito e esquerdo do \emph{mouse}, fechar a janela atual do sistema operacional, abrir o teclado virtual, movimentação do ponteiro do \emph{mouse}, entre outras funções são possíveis de serem configuradas.
+As funções podem ser configuradas de acordo com o perfil do usuário, por exemplo, um usuário que acessa mais a internet, usaria mais as funções de:
 
 \begin{itemize}
 \item CTRL + T (Abrir uma nova guia)
@@ -855,15 +858,15 @@ As funções podem ser configuradas de acordo com o perfil do usuario, por exemp
 \item Movimentação do \emph{mouse}
 \end{itemize}
 
-Já um usuario que utiliza um software especifico pode configurar para que os controles usem os atalhos do software.
+Já um usuario que utiliza um \emph{software} especifico pode configurar para que os controles usem os atalhos do \emph{software}.
 
 \chapter{Conclusão}
 
-O desenvolvimento do presente estudo possibilitou uma análise de como é a construção de um controle voltado para tecnologias assistivas. Além disso, também permitiu conhecer um pouco mais sobre as areas que envolvem essa construção, e como ela se aplica na sociedade.
+O desenvolvimento do presente estudo possibilitou uma análise de como é a construção de um controle voltado para tecnologias assistivas. Além disso, também permitiu conhecer um pouco mais sobre as áreas que envolvem essa construção, e como ela se aplica na sociedade.
 
-Os testes com usuarios não foram realizados, pois para isso é necessário passar pelo comitê de ética, após aprovado podem ser feitos os testes necessários. Como essa aprovação não é simples e acaba sendo demorada, não foi possivel ter a aprovação até a data final de entrega do trabalho.
+Os testes com usuários não foram realizados, pois para isso é necessário passar pelo comitê de ética, após aprovado podem ser feitos os testes necessários. Como essa aprovação não é simples e acaba sendo demorada, não foi possível ter a aprovação até a data final de entrega do trabalho.
 
-Para trabalhos futuros pode ser feita a separação dos botões em módulos, para que o usuario ajuste como preferir em sua mesa. Também pode ser reduzido a altura dos controles, utilizando botões com alturas menores.
+Para trabalhos futuros pode ser feita a separação dos botões em módulos, para que o usuário ajuste como preferir em sua mesa. Também pode ser reduzido a altura dos controles, utilizando botões com alturas menores.
 
 \nocite{unojoy}
 \nocite{uniriotec}
@@ -961,25 +964,25 @@ Para trabalhos futuros pode ser feita a separação dos botões em módulos, par
 \chapter{Como transformar ARDUINO® UNO em UnoJoy}
 \label{ref:anexoa}
 
-Nesse tutorial vamos aprender a transformar a placa Arduino Uno em Joystick.
+Nesse tutorial vamos aprender a transformar a placa ARDUINO® UNO em \emph{Joystick}.
 
-Primeiramente vamos baixar os arquivos necessários apara fazer a transformação na placa Arduino Uno para Joystick, os links estão todos no final da postagem.
+Primeiramente vamos baixar os arquivos necessários apara fazer a transformação na placa ARDUINO® UNO para \emph{Joystick}, os \emph{links} estão todos no final da postagem.
 
-Lembrando que além dos arquivos disponibilizados para download é necessário ter também ter o java instalado no Pc, e o software do Arduino Uno.
+Lembrando que além dos arquivos disponibilizados para \emph{download} é necessário ter também ter o java instalado no Pc, e o \emph{software} do ARDUINO® UNO.
 Vamos aos procedimentos:
 
-1º Passo: Conectar a placa Arduino Uno no Pc e verificar se os drivers estão instalados e se a porta reconheceu a placa Arduino.
+1º Passo: Conectar a placa ARDUINO® UNO no Pc e verificar se os \emph{drivers} estão instalados e se a porta reconheceu a placa ARDUINO®.
 
 2º Passo: Baixar e Extrair os arquivos da pasta zipada através de um programa tipo winrar ou outro do mesmo gênero como 7zip.  
 
-3º Passo: Faça a instalação do flip, dando um duplo clique no instalador do programa e seguindo o que se pede, após ter instalado não será necessário abrir o programa já que a função desse programa é apenas fazer uma comunicação entre o Arduino Uno e o Pc.
+3º Passo: Faça a instalação do flip, dando um duplo clique no instalador do programa e seguindo o que se pede, após ter instalado não será necessário abrir o programa já que a função desse programa é apenas fazer uma comunicação entre o ARDUINO® UNO e o Pc.
 
 \begin{figure}[H]
 	\centering
 		\includegraphics[width=0.8\textwidth]{./img/anex-img-1.jpg}
 \end{figure}
 
-4º Passo: Abra a pasta Arduino-big-joystick e faça a extração da pasta compactada Arduino-big-joystick.
+4º Passo: Abra a pasta Arduino-\emph{big}-\emph{joystick} e faça a extração da pasta compactada Arduino-\emph{big}-\emph{joystick}.
 
 \begin{figure}[H]
 	\centering
@@ -991,7 +994,7 @@ Vamos aos procedimentos:
 		\includegraphics[width=0.8\textwidth]{./img/anex-img-3.jpg}
 \end{figure}
 
-5º Passo: Após ter extraído os arquivos, renomeie o arquivo Arduino-big-joystick.hex para UnoJoy.hex, o U e J deixem maiúsculo.
+5º Passo: Após ter extraído os arquivos, renomeie o arquivo Arduino-\emph{big}-\emph{joystick}.hex para UnoJoy.hex, o U e J deixem maiúsculo.
 
 \begin{figure}[H]
 	\centering
@@ -1003,58 +1006,58 @@ Vamos aos procedimentos:
 		\includegraphics[width=0.8\textwidth]{./img/anex-img-5.jpg}
 \end{figure}
 
-6º Passo: copie o arquivo UnoJoy.hex volte e abra a pasta UnoJoy, abra a pasta UnoJoy outra vez, abra a pasta UnoJoy-master, localize e abra a pasta UnoJoy mais uma vez, agora abra a pasta ATmega8u2Code, agora abra a pasta HexFiles cole e substitua o arquivo UnoJoy.hex.
+6º Passo: copie o arquivo UnoJoy.hex volte e abra a pasta UnoJoy, abra a pasta UnoJoy outra vez, abra a pasta UnoJoy-\emph{master}, localize e abra a pasta UnoJoy mais uma vez, agora abra a pasta ATmega8u2Code, agora abra a pasta Hex\emph{Files} cole e substitua o arquivo UnoJoy.hex.
 
 \begin{figure}[H]
 	\centering
 		\includegraphics[width=0.8\textwidth]{./img/anex-img-6.jpg}
 \end{figure}
 
-7º Passo: Volte até a pasta Arduino-big-joystick, abra a mesma e abra a pasta sketch\_aug19c, dentro desta pasta está a sketch  para fazer a programação no Aduino Uno, abra a sketch e execute dando dois cliques.
+7º Passo: Volte até a pasta Arduino-\emph{big}-\emph{joystick}, abra a mesma e abra a pasta \emph{sketch}\_aug19c, dentro desta pasta está a \emph{sketch}  para fazer a programação no ARDUINO® UNO, abra a \emph{sketch} e execute dando dois cliques.
 
 \begin{figure}[H]
 	\centering
 		\includegraphics[width=0.4\textwidth]{./img/anex-img-7.jpg}
 \end{figure}
 
-8º Passo: Com a sketch aberta vá em ferramentas e verifique se a porta selecionada é a porta que o Arduino Uno está conectado.
+8º Passo: Com a \emph{sketch} aberta vá em ferramentas e verifique se a porta selecionada é a porta que o ARDUINO® UNO está conectado.
 
 \begin{figure}[H]
 	\centering
 		\includegraphics[width=0.7\textwidth]{./img/anex-img-8.jpg}
 \end{figure}
 
-9º Passo: Após ter verificado a porta e estando tudo correto clique no segundo botão da esquerda para direita na parte superior da sketch para carregar a programação, o botão tem o formato de uma ceta.
+9º Passo: Após ter verificado a porta e estando tudo correto clique no segundo botão da esquerda para direita na parte superior da \emph{sketch} para carregar a programação, o botão tem o formato de uma ceta.
 
 \begin{figure}[H]
 	\centering
 		\includegraphics[width=0.6\textwidth]{./img/anex-img-9.jpg}
 \end{figure}
 
-10º Passo: Agora vamos dar um curto na placa Arduino Uno encostando algo metálico nos dois primeiros pinos dos seis pinos próximo a porta usb do Arduino Uno, veja a imagem. abaixo.
+10º Passo: Agora vamos dar um curto na placa ARDUINO® UNO encostando algo metálico nos dois primeiros pinos dos seis pinos próximo a porta usb do ARDUINO® UNO, veja a imagem. abaixo.
 
 \begin{figure}[H]
 	\centering
 		\includegraphics[width=0.5\textwidth]{./img/anex-img-10.jpg}
 \end{figure}
 
-11º Passo: Após ter dado o curto na placa  vamos abrir a pasta UnoJoy, abrir novamente a pasta UnoJoy,  agora abra a pasta UnoJoy-master, localize e abra a pasta UnoJoy e execute o arquivo TurnIntoAJoystick.
+11º Passo: Após ter dado o curto na placa  vamos abrir a pasta UnoJoy, abrir novamente a pasta UnoJoy,  agora abra a pasta UnoJoy-\emph{master}, localize e abra a pasta UnoJoy e execute o arquivo \emph{TurnIntoAJoystick}.
 
 \begin{figure}[H]
 	\centering
 		\includegraphics[width=0.4\textwidth]{./img/anex-img-11.jpg}
 \end{figure}
 
-Obs.: Se der erro de dll ou outro qualquer ao executar o arquivo, será necessário atualizar o driver, faça o seguinte para atualizar o driver. 
+Obs.: Se der erro de dll ou outro qualquer ao executar o arquivo, será necessário atualizar o \emph{driver}, faça o seguinte para atualizar o \emph{driver}. 
 
-Vamos em painel de controle, hardware e sons e dispositivos e impressoras, e clicamos com o botão direito do \emph{mouse} no dispositivo representante ao Arduino Uno que ficou como Dispositivo Desconhecido após o curto, após clicar com o botão direito do \emph{mouse} sobre o dispositivo que representa o Arduino Uno clicamos  em propriedades.
+Vamos em painel de controle, \emph{hardware} e sons e dispositivos e impressoras, e clicamos com o botão direito do \emph{mouse} no dispositivo representante ao ARDUINO® UNO que ficou como Dispositivo Desconhecido após o curto, após clicar com o botão direito do \emph{mouse} sobre o dispositivo que representa o Arduino Uno clicamos  em propriedades.
 
 \begin{figure}[H]
 	\centering
 		\includegraphics[width=0.4\textwidth]{./img/anex-img-12.jpg}
 \end{figure}
 
-Após ter clicado em propriedades, clique em hardware e em propriedades novamente.
+Após ter clicado em propriedades, clique em \emph{hardware} e em propriedades novamente.
 
 \begin{figure}[H]
 	\centering
@@ -1068,50 +1071,50 @@ Após ter clicado em propriedades clique agora em Alterar configurações.
 		\includegraphics[width=0.5\textwidth]{./img/anex-img-14.jpg}
 \end{figure}
 
-Na próxima janela clique em Driver e Atualizar Driver, e em Procurar software de driver no computador.
+Na próxima janela clique em \emph{Driver} e Atualizar \emph{Driver}, e em Procurar \emph{software} de \emph{driver} no computador.
 
 \begin{figure}[H]
 	\centering
 		\includegraphics[width=0.8\textwidth]{./img/anex-img-15.jpg}
 \end{figure}
 
-Agora clique em procurar, clique em Disco local c:, clique em Arquivos de programas x(86), clique em Atmel, clique em Flip e em Usb, deixe a pasta Usb selecionada e clique em Ok.
+Agora clique em procurar, clique em Disco local c:, clique em Arquivos de programas x(86), clique em Atmel, clique em Flip e em USB, deixe a pasta USB selecionada e clique em Ok.
 
 \begin{figure}[H]
 	\centering
 		\includegraphics[width=0.8\textwidth]{./img/anex-img-16.jpg}
 \end{figure}
 
-Agora clique em avançar e aguarde finalizar a instalação do driver, deverá ficar como na imagem abaixo.
+Agora clique em avançar e aguarde finalizar a instalação do \emph{driver}, deverá ficar como na imagem abaixo.
 
 \begin{figure}[H]
 	\centering
 		\includegraphics[width=0.6\textwidth]{./img/anex-img-17.jpg}
 \end{figure}
 
-Agora execute o arquivo TurnIntoAJoystick novamente e aguarde, o Arduino Uno deve se desconectar do Pc.
+Agora execute o arquivo\emph{ TurnIntoAJoystick} novamente e aguarde, o ARDUINO® UNO deve se desconectar do Pc.
 
 \begin{figure}[H]
 	\centering
 		\includegraphics[width=0.7\textwidth]{./img/anex-img-18.jpg}
 \end{figure}
 
-12º Passo: Retire o cabo usb que liga o Arduino Uno ao Pc e conecte novamente, para certificar que tudo deu certo vá em painel de controle, hardware e sons e dispositivos e impressoras e verifique se o Arduino Uno estar como Joystick.
+12º Passo: Retire o cabo USB que liga o ARDUINO® UNO ao Pc e conecte novamente, para certificar que tudo deu certo vá em painel de controle, \emph{hardware} e sons e dispositivos e impressoras e verifique se o ARDUINO® UNO estar como \emph{Joystick}.
 
 \begin{figure}[H]
 	\centering
 		\includegraphics[width=0.8\textwidth]{./img/anex-img-19.jpg}
 \end{figure}
 
-Para reverter o processo basta dar o curto novamente na placa Arduino Uno, ir na pasta UnoJoy, abrir novamente a pasta UnoJoy, abrir a pasta UnoJoy-master, localizar e abrir a pasta UnoJoy e executar o arquivo TurnIntoAnArduino, desconectar e conectar novamente o Arduino Uno ao Pc e o processo será revertido.
+Para reverter o processo basta dar o curto novamente na placa ARDUINO® UNO, ir na pasta UnoJoy, abrir novamente a pasta UnoJoy, abrir a pasta UnoJoy-\emph{master}, localizar e abrir a pasta UnoJoy e executar o arquivo \emph{TurnIntoAnArduino}, desconectar e conectar novamente o ARDUINO® UNO ao Pc e o processo será revertido.
 
-Link para download dos arquivos necessário
+\emph{Link} para \emph{download} dos arquivos necessário
 
 https://mega.nz/\#!xIhUxC6J!09gFgfu2v187Nu05q7ybW0L6-yoPQdfkY8Axtxx77Xg
 
-Link para download do sofware do ARDUINO® 
+\emph{Link} para \emph{download} do \emph{sofware} do ARDUINO® 
 
-https://www.arduino.cc/en/Main/Software
+https://www.arduino.cc/en/\emph{Main}/\emph{Software}
 
 \end{anexosenv}
 
